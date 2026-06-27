@@ -135,7 +135,7 @@ End-to-End Demo는 새 알고리즘이 아니라 기존 모듈을 연결하는 o
 flowchart TD
     A["SQLite Runtime DB<br/>synthetic_retail_company_dataset/retail_inventory.sqlite"]
     B["Demand Forecast<br/>Moving Average / Weekday Average / LightGBM"]
-    C["CCTV Images<br/>data/simulation/1.png, 2.png"]
+    C["CCTV Images<br/>data/simulation/Morning.png, Evening.png"]
     D["Detector Under Evaluation<br/>YOLO / OWL-ViT"]
     E["Bounding Boxes"]
     F["Crop Images"]

@@ -467,7 +467,7 @@ All Results
 ```bash
 python tools/build_embeddings.py
 python tools/train_demand_forecast.py
-python tools/benchmark_detectors.py --images data/simulation/1.png data/simulation/2.png --detectors yolo owlvit
+python tools/benchmark_detectors.py --images data/simulation/Morning.png data/simulation/Evening.png --detectors yolo owlvit
 python tools/run_triage.py --date latest
 python tools/run_agents.py --date latest --dry-run
 python tools/run_harness.py --date latest

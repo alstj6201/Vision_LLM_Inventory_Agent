@@ -16,7 +16,15 @@ from retail_ai.detector_benchmark import DEFAULT_OUTPUT_DIR, DEFAULT_PRODUCT_PRO
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Benchmark product candidate detectors on CCTV shelf images.")
-    parser.add_argument("--images", nargs="+", required=True, type=Path)
+    parser.add_argument(
+        "--images",
+        nargs="+",
+        default=[
+            PROJECT_ROOT / "data" / "simulation" / "Morning.png",
+            PROJECT_ROOT / "data" / "simulation" / "Evening.png",
+        ],
+        type=Path,
+    )
     parser.add_argument("--detectors", nargs="+", default=["yolo", "owlvit"])
     parser.add_argument("--output-dir", type=Path, default=PROJECT_ROOT / DEFAULT_OUTPUT_DIR)
     parser.add_argument("--conf-thresholds", nargs="+", type=float, default=[0.05, 0.1, 0.2, 0.3])

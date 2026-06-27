@@ -19,7 +19,7 @@ from retail_ai.vision_counting import OpenVocabularyProductDetector  # noqa: E40
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Smoke test OpenVocabularyProductDetector on one image.")
-    parser.add_argument("--image-path", required=True, type=Path)
+    parser.add_argument("--image-path", default=PROJECT_ROOT / "data" / "simulation" / "Morning.png", type=Path)
     parser.add_argument("--output-json", default=PROJECT_ROOT / "results" / "detection_preview.json", type=Path)
     parser.add_argument("--output-image", default=PROJECT_ROOT / "results" / "detection_preview.jpg", type=Path)
     parser.add_argument("--det-conf", default=0.05, type=float)

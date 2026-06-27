@@ -26,8 +26,8 @@ from retail_ai.vision_counting import (
 
 DEFAULT_DB_PATH = Path("synthetic_retail_company_dataset/retail_inventory.sqlite")
 DEFAULT_OUTPUT_DIR = Path("results/demo")
-DEFAULT_MORNING_IMAGE = Path("data/simulation/1.png")
-DEFAULT_EVENING_IMAGE = Path("data/simulation/2.png")
+DEFAULT_MORNING_IMAGE = Path("data/simulation/Morning.png")
+DEFAULT_EVENING_IMAGE = Path("data/simulation/Evening.png")
 DemoMode = Literal["production", "simulation"]
 
 
