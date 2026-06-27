@@ -1,0 +1,45 @@
+# Python cache/build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local environment/secrets
+.env
+.env.*
+!.env.example
+
+# Local model weights and ML caches
+*.pt
+*.pth
+*.onnx
+*.safetensors
+.cache/
+
+# Generated embeddings/indexes/databases
+data/embeddings/
+*.sqlite
+*.sqlite3
+*.db
+
+# Experiment/test outputs
+results/
+runs/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
