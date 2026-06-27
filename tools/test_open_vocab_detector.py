@@ -5,6 +5,7 @@ import json
 import sys
 from pathlib import Path
 
+import transformers
 from PIL import Image, ImageDraw, ImageFont
 
 
@@ -19,9 +20,9 @@ from retail_ai.vision_counting import OpenVocabularyProductDetector  # noqa: E40
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Smoke test OpenVocabularyProductDetector on one image.")
     parser.add_argument("--image-path", required=True, type=Path)
-    parser.add_argument("--output-json", default=PROJECT_ROOT / "results" / "open_vocab_detector_result.json", type=Path)
-    parser.add_argument("--output-image", default=PROJECT_ROOT / "results" / "open_vocab_detector_result.jpg", type=Path)
-    parser.add_argument("--det-conf", default=0.25, type=float)
+    parser.add_argument("--output-json", default=PROJECT_ROOT / "results" / "detection_preview.json", type=Path)
+    parser.add_argument("--output-image", default=PROJECT_ROOT / "results" / "detection_preview.jpg", type=Path)
+    parser.add_argument("--det-conf", default=0.05, type=float)
     return parser.parse_args()
 
 
@@ -34,6 +35,8 @@ def main() -> None:
         "image_path": str(args.image_path),
         "detector": "open-vocab",
         "model_name": detector.model_name,
+        "transformers_version": transformers.__version__,
+        "post_process_method": detector.post_process_method,
         "prompts": detector.prompts,
         "detection_count": len(detections),
         "detections": [
@@ -42,6 +45,7 @@ def main() -> None:
                 "y1": detection.y1,
                 "x2": detection.x2,
                 "y2": detection.y2,
+                "label": detection.label,
                 "confidence": detection.confidence,
             }
             for detection in detections
@@ -72,9 +76,11 @@ def save_visualization(image_path: Path, detections, output_image: Path) -> None
             outline=(255, 0, 0),
             width=3,
         )
-        label = f"{index}: {detection.confidence:.2f}"
+        label_text = detection.label or "product"
+        label = f"{index}: {label_text} {detection.confidence:.2f}"
+        label_width = max(120, min(420, 8 * len(label)))
         draw.rectangle(
-            [detection.x1, max(0, detection.y1 - 16), detection.x1 + 78, detection.y1],
+            [detection.x1, max(0, detection.y1 - 16), detection.x1 + label_width, detection.y1],
             fill=(255, 0, 0),
         )
         draw.text((detection.x1 + 3, max(0, detection.y1 - 15)), label, fill=(255, 255, 255), font=font)

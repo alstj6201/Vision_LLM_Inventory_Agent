@@ -17,6 +17,7 @@ from retail_ai.vision_counting import (  # noqa: E402
     MockDetector,
     VisionCountingPipeline,
     aggregate_candidates_by_sku,
+    post_process_owlvit_outputs,
 )
 
 
@@ -160,3 +161,28 @@ def test_aggregate_candidates_by_sku_can_use_mean_similarity():
 
     assert result["sku_id"] == "B"
     assert result["similarity"] == 0.90
+
+
+def test_owlvit_post_process_prefers_grounded_method_when_object_detection_missing():
+    class FakeProcessor:
+        def post_process_grounded_object_detection(self, outputs, threshold, target_sizes, text_labels):
+            assert threshold == 0.05
+            assert text_labels == [["snack package"]]
+            return [
+                {
+                    "boxes": np.array([[0, 0, 10, 10]], dtype="float32"),
+                    "scores": np.array([0.9], dtype="float32"),
+                    "labels": ["snack package"],
+                }
+            ]
+
+    result, method = post_process_owlvit_outputs(
+        processor=FakeProcessor(),
+        outputs=object(),
+        target_sizes=np.array([[100, 100]], dtype="float32"),
+        prompts=["snack package"],
+        threshold=0.05,
+    )
+
+    assert method == "post_process_grounded_object_detection"
+    assert result["labels"] == ["snack package"]

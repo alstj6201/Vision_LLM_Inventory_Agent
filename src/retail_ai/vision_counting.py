@@ -33,6 +33,8 @@ class DetectionBox:
     x2: float
     y2: float
     confidence: float
+    label: str = ""
+    detector_name: str = ""
 
 
 @dataclass(frozen=True)
@@ -85,7 +87,7 @@ class OpenVocabularyProductDetector(BaseDetector):
     def __init__(
         self,
         prompts: list[str] | None = None,
-        confidence_threshold: float = 0.25,
+        confidence_threshold: float = 0.05,
         model_name: str = "google/owlvit-base-patch32",
         device: str | None = None,
     ) -> None:
@@ -97,6 +99,7 @@ class OpenVocabularyProductDetector(BaseDetector):
         self._processor = None
         self._model = None
         self._device = None
+        self.post_process_method: str | None = None
 
     def detect(self, image_path: str | Path) -> list[DetectionBox]:
         self._load_model()
@@ -113,23 +116,36 @@ class OpenVocabularyProductDetector(BaseDetector):
         with torch.inference_mode():
             outputs = model(**inputs)
 
-        target_sizes = torch.tensor([rgb_image.size[::-1]], device=device)
-        results = processor.post_process_object_detection(
+        width, height = rgb_image.size
+        target_sizes = torch.tensor([[height, width]], device=device)
+        results, method_name = post_process_owlvit_outputs(
+            processor=processor,
             outputs=outputs,
-            threshold=self.confidence_threshold,
             target_sizes=target_sizes,
-        )[0]
+            prompts=self.prompts,
+            threshold=self.confidence_threshold,
+        )
+        self.post_process_method = method_name
 
         detections: list[DetectionBox] = []
-        for box, score in zip(results["boxes"], results["scores"]):
-            x1, y1, x2, y2 = [float(value) for value in box.detach().cpu().tolist()]
+        labels = results.get("labels", results.get("text_labels", []))
+        for index, (box, score) in enumerate(zip(results["boxes"], results["scores"])):
+            if hasattr(box, "detach"):
+                box_values = box.detach().cpu().tolist()
+            else:
+                box_values = list(box)
+            x1, y1, x2, y2 = [float(value) for value in box_values]
+            label = format_owlvit_label(labels, index=index, prompts=self.prompts)
+            confidence = float(score.detach().cpu().item() if hasattr(score, "detach") else score)
             detections.append(
                 DetectionBox(
                     x1=x1,
                     y1=y1,
                     x2=x2,
                     y2=y2,
-                    confidence=float(score.detach().cpu().item()),
+                    confidence=confidence,
+                    label=label,
+                    detector_name="owlvit",
                 )
             )
         return detections
@@ -163,6 +179,68 @@ class OpenVocabularyProductDetector(BaseDetector):
             ) from exc
         self._model.to(self._device)
         self._model.eval()
+
+
+def post_process_owlvit_outputs(
+    processor: Any,
+    outputs: Any,
+    target_sizes: Any,
+    prompts: list[str],
+    threshold: float,
+) -> tuple[dict[str, Any], str]:
+    """Run OWL-ViT post-processing across transformers API versions."""
+    if hasattr(processor, "post_process_object_detection"):
+        processed = processor.post_process_object_detection(
+            outputs=outputs,
+            threshold=threshold,
+            target_sizes=target_sizes,
+        )
+        return processed[0], "post_process_object_detection"
+
+    if hasattr(processor, "post_process_grounded_object_detection"):
+        processed = processor.post_process_grounded_object_detection(
+            outputs=outputs,
+            threshold=threshold,
+            target_sizes=target_sizes,
+            text_labels=[prompts],
+        )
+        return processed[0], "post_process_grounded_object_detection"
+
+    if hasattr(processor, "post_process"):
+        processed = processor.post_process(outputs=outputs, target_sizes=target_sizes)
+        result = processed[0]
+        scores = result.get("scores", [])
+        keep_indices = [
+            index
+            for index, score in enumerate(scores)
+            if float(score.detach().cpu().item() if hasattr(score, "detach") else score) >= threshold
+        ]
+        filtered: dict[str, Any] = {}
+        for key, value in result.items():
+            try:
+                filtered[key] = value[keep_indices]
+            except Exception:
+                filtered[key] = [value[index] for index in keep_indices]
+        return filtered, "post_process"
+
+    raise RuntimeError(
+        "OwlViTProcessor does not provide a supported post-process method. "
+        "Expected one of post_process_object_detection, "
+        "post_process_grounded_object_detection, or post_process."
+    )
+
+
+def format_owlvit_label(labels: Any, index: int, prompts: list[str]) -> str:
+    if labels is None or len(labels) <= index:
+        return ""
+    label = labels[index]
+    if hasattr(label, "detach"):
+        label = int(label.detach().cpu().item())
+    if isinstance(label, (int, np.integer)):
+        if 0 <= int(label) < len(prompts):
+            return prompts[int(label)]
+        return str(int(label))
+    return str(label)
 
 
 class MockDetector(BaseDetector):
