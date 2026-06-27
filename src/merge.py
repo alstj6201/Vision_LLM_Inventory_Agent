@@ -46,7 +46,8 @@ def preprocess():
     df["sku_id"] = df["item_id"].map(mapping)
 
     # product_name 매칭
-    meta_small = meta.drop_duplicates("sku_id")[["sku_id", "product_name"]]
+    meta_small = meta.drop_duplicates("sku_id")[
+    ["sku_id", "product_name", "image_path", "filename", "height", "angle"]]
     df = df.merge(meta_small, on="sku_id", how="left")
 
     # ======================
@@ -54,10 +55,22 @@ def preprocess():
     # ======================
     keep_cols = [
         "date",
+        "wm_yr_wk",
+        "wday",
         "d",
-        "item_id",
         "sku_id",
+        "event_name_1",
+        "event_type_1",
+        "event_name_2",
+        "event_type_2",
+        "snap_CA",
+        "snap_TX",
+        "snap_WI",
         "product_name",
+        "image_path",
+        "filename",
+        "height",
+        "angle",
         "sales",
         "sell_price"
     ]
