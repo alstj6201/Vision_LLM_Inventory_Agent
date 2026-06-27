@@ -1,0 +1,6 @@
+﻿store_id,store_name,city,district,size_type
+STORE01,강남역점,Seoul,Gangnam,large
+STORE02,신촌점,Seoul,Seodaemun,medium
+STORE03,수원역점,Suwon,Paldal,medium
+STORE04,대전둔산점,Daejeon,Seo,small
+STORE05,부산서면점,Busan,Busanjin,large
