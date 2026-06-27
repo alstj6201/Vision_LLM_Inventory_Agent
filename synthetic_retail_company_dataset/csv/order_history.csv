@@ -1,0 +1,1451 @@
+﻿order_id,date,sku_id,supplier_id,ordered_qty,status,reason
+OR00000001,2021-02-04,10060,SUP001,96,requires_review,Harness routed for safety review.
+OR00000002,2021-03-09,10060,SUP001,96,executed,Harness approved.
+OR00000003,2021-05-11,10060,SUP001,96,blocked,Harness routed for safety review.
+OR00000004,2021-06-01,10060,SUP001,96,blocked,Harness routed for safety review.
+OR00000005,2021-07-05,10060,SUP001,96,executed,Harness approved.
+OR00000006,2021-07-17,10060,SUP001,96,requires_review,Harness routed for safety review.
+OR00000007,2021-08-04,10060,SUP001,96,executed,Harness approved.
+OR00000008,2021-08-16,10060,SUP001,96,requires_review,Harness routed for safety review.
+OR00000009,2021-09-11,10060,SUP001,96,executed,Harness approved.
+OR00000010,2021-09-28,10060,SUP001,96,executed,Harness approved.
+OR00000011,2021-10-10,10060,SUP001,96,executed,Harness approved.
+OR00000012,2021-10-27,10060,SUP001,96,blocked,Harness routed for safety review.
+OR00000013,2021-11-19,10060,SUP001,96,executed,Harness approved.
+OR00000014,2021-12-08,10060,SUP001,96,executed,Harness approved.
+OR00000015,2021-12-28,10060,SUP001,96,blocked,Harness routed for safety review.
+OR00000016,2022-01-15,10060,SUP001,96,executed,Harness approved.
+OR00000017,2022-02-02,10060,SUP001,96,executed,Harness approved.
+OR00000018,2022-02-20,10060,SUP001,96,blocked,Harness routed for safety review.
+OR00000019,2022-04-07,10060,SUP001,96,executed,Harness approved.
+OR00000020,2022-04-28,10060,SUP001,96,executed,Harness approved.
+OR00000021,2022-05-18,10060,SUP001,96,blocked,Harness routed for safety review.
+OR00000022,2022-06-08,10060,SUP001,96,executed,Harness approved.
+OR00000023,2022-06-29,10060,SUP001,96,blocked,Harness routed for safety review.
+OR00000024,2022-07-20,10060,SUP001,96,executed,Harness approved.
+OR00000025,2022-08-08,10060,SUP001,96,executed,Harness approved.
+OR00000026,2022-08-30,10060,SUP001,96,blocked,Harness routed for safety review.
+OR00000027,2022-09-19,10060,SUP001,96,executed,Harness approved.
+OR00000028,2022-10-11,10060,SUP001,96,executed,Harness approved.
+OR00000029,2022-11-03,10060,SUP001,96,requires_review,Harness routed for safety review.
+OR00000030,2022-11-26,10060,SUP001,96,executed,Harness approved.
+OR00000031,2022-12-18,10060,SUP001,96,executed,Harness approved.
+OR00000032,2023-01-09,10060,SUP001,96,executed,Harness approved.
+OR00000033,2023-02-02,10060,SUP001,96,requires_review,Harness routed for safety review.
+OR00000034,2023-03-01,10060,SUP001,96,executed,Harness approved.
+OR00000035,2023-04-23,10060,SUP001,96,blocked,Harness routed for safety review.
+OR00000036,2023-05-22,10060,SUP001,96,blocked,Harness routed for safety review.
+OR00000037,2023-06-20,10060,SUP001,96,executed,Harness approved.
+OR00000038,2023-07-14,10060,SUP001,96,executed,Harness approved.
+OR00000039,2023-08-02,10060,SUP001,96,executed,Harness approved.
+OR00000040,2023-08-17,10060,SUP001,96,blocked,Harness routed for safety review.
+OR00000041,2023-09-07,10060,SUP001,96,executed,Harness approved.
+OR00000042,2023-09-29,10060,SUP001,96,blocked,Harness routed for safety review.
+OR00000043,2023-10-14,10060,SUP001,96,executed,Harness approved.
+OR00000044,2023-11-04,10060,SUP001,96,blocked,Harness routed for safety review.
+OR00000045,2023-11-25,10060,SUP001,96,executed,Harness approved.
+OR00000046,2023-12-20,10060,SUP001,96,executed,Harness approved.
+OR00000047,2024-01-13,10060,SUP001,96,requires_review,Harness routed for safety review.
+OR00000048,2024-02-10,10060,SUP001,96,executed,Harness approved.
+OR00000049,2024-03-09,10060,SUP001,96,requires_review,Harness routed for safety review.
+OR00000050,2024-04-20,10060,SUP001,96,requires_review,Harness routed for safety review.
+OR00000051,2024-05-15,10060,SUP001,96,blocked,Harness routed for safety review.
+OR00000052,2024-06-12,10060,SUP001,96,requires_review,Harness routed for safety review.
+OR00000053,2024-07-18,10060,SUP001,96,executed,Harness approved.
+OR00000054,2024-08-11,10060,SUP001,96,executed,Harness approved.
+OR00000055,2024-09-07,10060,SUP001,96,requires_review,Harness routed for safety review.
+OR00000056,2024-10-04,10060,SUP001,96,executed,Harness approved.
+OR00000057,2024-11-01,10060,SUP001,96,executed,Harness approved.
+OR00000058,2024-11-30,10060,SUP001,96,blocked,Harness routed for safety review.
+OR00000059,2025-01-03,10060,SUP001,96,requires_review,Harness routed for safety review.
+OR00000060,2025-02-03,10060,SUP001,96,blocked,Harness routed for safety review.
+OR00000061,2025-03-07,10060,SUP001,96,blocked,Harness routed for safety review.
+OR00000062,2025-04-12,10060,SUP001,96,executed,Harness approved.
+OR00000063,2025-05-12,10060,SUP001,96,requires_review,Harness routed for safety review.
+OR00000064,2025-06-19,10060,SUP001,96,blocked,Harness routed for safety review.
+OR00000065,2025-07-26,10060,SUP001,96,requires_review,Harness routed for safety review.
+OR00000066,2025-08-23,10060,SUP001,96,executed,Harness approved.
+OR00000067,2025-09-21,10060,SUP001,96,executed,Harness approved.
+OR00000068,2025-10-18,10060,SUP001,96,requires_review,Harness routed for safety review.
+OR00000069,2025-11-15,10060,SUP001,96,executed,Harness approved.
+OR00000070,2025-12-19,10060,SUP001,96,executed,Harness approved.
+OR00000071,2026-01-17,10060,SUP001,96,executed,Harness approved.
+OR00000072,2026-02-16,10060,SUP001,96,executed,Harness approved.
+OR00000073,2026-03-15,10060,SUP001,96,requires_review,Harness routed for safety review.
+OR00000074,2026-04-16,10060,SUP001,96,executed,Harness approved.
+OR00000075,2026-05-17,10060,SUP001,96,blocked,Harness routed for safety review.
+OR00000076,2021-03-08,10091,SUP001,110,executed,Harness approved.
+OR00000077,2021-05-11,10091,SUP001,110,executed,Harness approved.
+OR00000078,2021-06-09,10091,SUP001,110,blocked,Harness routed for safety review.
+OR00000079,2021-07-03,10091,SUP001,110,executed,Harness approved.
+OR00000080,2021-07-16,10091,SUP001,110,executed,Harness approved.
+OR00000081,2021-08-04,10091,SUP001,110,blocked,Harness routed for safety review.
+OR00000082,2021-08-20,10091,SUP001,110,executed,Harness approved.
+OR00000083,2021-09-18,10091,SUP001,110,executed,Harness approved.
+OR00000084,2021-10-07,10091,SUP001,110,requires_review,Harness routed for safety review.
+OR00000085,2021-10-26,10091,SUP001,110,executed,Harness approved.
+OR00000086,2021-11-18,10091,SUP001,110,blocked,Harness routed for safety review.
+OR00000087,2021-12-11,10091,SUP001,110,executed,Harness approved.
+OR00000088,2022-01-04,10091,SUP001,110,executed,Harness approved.
+OR00000089,2022-01-21,10091,SUP001,110,executed,Harness approved.
+OR00000090,2022-02-09,10091,SUP001,110,requires_review,Harness routed for safety review.
+OR00000091,2022-02-26,10091,SUP001,110,requires_review,Harness routed for safety review.
+OR00000092,2022-04-08,10091,SUP001,110,requires_review,Harness routed for safety review.
+OR00000093,2022-04-28,10091,SUP001,110,executed,Harness approved.
+OR00000094,2022-05-19,10091,SUP001,110,requires_review,Harness routed for safety review.
+OR00000095,2022-06-10,10091,SUP001,110,blocked,Harness routed for safety review.
+OR00000096,2022-06-30,10091,SUP001,110,blocked,Harness routed for safety review.
+OR00000097,2022-07-19,10091,SUP001,110,requires_review,Harness routed for safety review.
+OR00000098,2022-08-06,10091,SUP001,110,blocked,Harness routed for safety review.
+OR00000099,2022-08-24,10091,SUP001,110,executed,Harness approved.
+OR00000100,2022-09-10,10091,SUP001,110,executed,Harness approved.
+OR00000101,2022-09-30,10091,SUP001,110,executed,Harness approved.
+OR00000102,2022-10-15,10091,SUP001,110,executed,Harness approved.
+OR00000103,2022-11-05,10091,SUP001,110,executed,Harness approved.
+OR00000104,2022-11-30,10091,SUP001,110,blocked,Harness routed for safety review.
+OR00000105,2022-12-29,10091,SUP001,110,requires_review,Harness routed for safety review.
+OR00000106,2023-01-28,10091,SUP001,110,executed,Harness approved.
+OR00000107,2023-03-02,10091,SUP001,110,executed,Harness approved.
+OR00000108,2023-04-25,10091,SUP001,110,executed,Harness approved.
+OR00000109,2023-05-19,10091,SUP001,110,executed,Harness approved.
+OR00000110,2023-06-10,10091,SUP001,110,executed,Harness approved.
+OR00000111,2023-07-02,10091,SUP001,110,executed,Harness approved.
+OR00000112,2023-07-19,10091,SUP001,110,requires_review,Harness routed for safety review.
+OR00000113,2023-08-05,10091,SUP001,110,executed,Harness approved.
+OR00000114,2023-08-19,10091,SUP001,110,executed,Harness approved.
+OR00000115,2023-09-07,10091,SUP001,110,executed,Harness approved.
+OR00000116,2023-09-23,10091,SUP001,110,executed,Harness approved.
+OR00000117,2023-10-10,10091,SUP001,110,requires_review,Harness routed for safety review.
+OR00000118,2023-10-31,10091,SUP001,110,executed,Harness approved.
+OR00000119,2023-11-19,10091,SUP001,110,executed,Harness approved.
+OR00000120,2023-12-14,10091,SUP001,110,executed,Harness approved.
+OR00000121,2024-01-10,10091,SUP001,110,blocked,Harness routed for safety review.
+OR00000122,2024-02-09,10091,SUP001,110,executed,Harness approved.
+OR00000123,2024-03-08,10091,SUP001,110,executed,Harness approved.
+OR00000124,2024-04-19,10091,SUP001,110,blocked,Harness routed for safety review.
+OR00000125,2024-05-14,10091,SUP001,110,executed,Harness approved.
+OR00000126,2024-06-09,10091,SUP001,110,requires_review,Harness routed for safety review.
+OR00000127,2024-07-04,10091,SUP001,110,executed,Harness approved.
+OR00000128,2024-08-01,10091,SUP001,110,executed,Harness approved.
+OR00000129,2024-08-21,10091,SUP001,110,executed,Harness approved.
+OR00000130,2024-09-12,10091,SUP001,110,blocked,Harness routed for safety review.
+OR00000131,2024-10-11,10091,SUP001,110,executed,Harness approved.
+OR00000132,2024-11-09,10091,SUP001,110,requires_review,Harness routed for safety review.
+OR00000133,2024-12-06,10091,SUP001,110,executed,Harness approved.
+OR00000134,2025-01-05,10091,SUP001,110,executed,Harness approved.
+OR00000135,2025-02-02,10091,SUP001,110,requires_review,Harness routed for safety review.
+OR00000136,2025-02-28,10091,SUP001,110,executed,Harness approved.
+OR00000137,2025-04-03,10091,SUP001,110,blocked,Harness routed for safety review.
+OR00000138,2025-05-03,10091,SUP001,110,executed,Harness approved.
+OR00000139,2025-06-07,10091,SUP001,110,executed,Harness approved.
+OR00000140,2025-07-15,10091,SUP001,110,requires_review,Harness routed for safety review.
+OR00000141,2025-08-15,10091,SUP001,110,executed,Harness approved.
+OR00000142,2025-09-13,10091,SUP001,110,executed,Harness approved.
+OR00000143,2025-10-10,10091,SUP001,110,executed,Harness approved.
+OR00000144,2025-11-10,10091,SUP001,110,blocked,Harness routed for safety review.
+OR00000145,2025-12-15,10091,SUP001,110,blocked,Harness routed for safety review.
+OR00000146,2026-01-22,10091,SUP001,110,requires_review,Harness routed for safety review.
+OR00000147,2026-02-26,10091,SUP001,110,blocked,Harness routed for safety review.
+OR00000148,2026-03-31,10091,SUP001,110,executed,Harness approved.
+OR00000149,2026-04-27,10091,SUP001,110,requires_review,Harness routed for safety review.
+OR00000150,2026-05-22,10091,SUP001,110,executed,Harness approved.
+OR00000151,2021-10-01,10092,SUP003,336,requires_review,Harness routed for safety review.
+OR00000152,2021-10-16,10092,SUP003,336,executed,Harness approved.
+OR00000153,2021-10-27,10092,SUP003,336,blocked,Harness routed for safety review.
+OR00000154,2021-11-07,10092,SUP003,336,executed,Harness approved.
+OR00000155,2021-11-19,10092,SUP003,336,executed,Harness approved.
+OR00000156,2021-12-01,10092,SUP003,336,executed,Harness approved.
+OR00000157,2021-12-16,10092,SUP003,336,executed,Harness approved.
+OR00000158,2021-12-28,10092,SUP003,336,executed,Harness approved.
+OR00000159,2022-01-13,10092,SUP003,336,executed,Harness approved.
+OR00000160,2022-01-30,10092,SUP003,336,executed,Harness approved.
+OR00000161,2022-02-18,10092,SUP003,336,executed,Harness approved.
+OR00000162,2022-03-10,10092,SUP003,336,executed,Harness approved.
+OR00000163,2022-04-06,10092,SUP003,336,executed,Harness approved.
+OR00000164,2022-04-28,10092,SUP003,336,requires_review,Harness routed for safety review.
+OR00000165,2022-05-20,10092,SUP003,336,blocked,Harness routed for safety review.
+OR00000166,2022-06-11,10092,SUP003,336,requires_review,Harness routed for safety review.
+OR00000167,2022-07-04,10092,SUP003,336,executed,Harness approved.
+OR00000168,2022-07-22,10092,SUP003,336,requires_review,Harness routed for safety review.
+OR00000169,2022-08-09,10092,SUP003,336,executed,Harness approved.
+OR00000170,2022-08-23,10092,SUP003,336,executed,Harness approved.
+OR00000171,2022-09-06,10092,SUP003,336,executed,Harness approved.
+OR00000172,2022-09-23,10092,SUP003,336,requires_review,Harness routed for safety review.
+OR00000173,2022-10-12,10092,SUP003,336,executed,Harness approved.
+OR00000174,2022-11-01,10092,SUP003,336,executed,Harness approved.
+OR00000175,2022-11-16,10092,SUP003,336,requires_review,Harness routed for safety review.
+OR00000176,2022-11-30,10092,SUP003,336,executed,Harness approved.
+OR00000177,2022-12-14,10092,SUP003,336,blocked,Harness routed for safety review.
+OR00000178,2022-12-24,10092,SUP003,336,requires_review,Harness routed for safety review.
+OR00000179,2023-01-12,10092,SUP003,336,executed,Harness approved.
+OR00000180,2023-02-08,10092,SUP003,336,executed,Harness approved.
+OR00000181,2023-03-02,10092,SUP003,336,executed,Harness approved.
+OR00000182,2023-03-24,10092,SUP003,336,executed,Harness approved.
+OR00000183,2023-04-08,10092,SUP003,336,blocked,Harness routed for safety review.
+OR00000184,2023-05-01,10092,SUP003,336,executed,Harness approved.
+OR00000185,2023-05-20,10092,SUP003,336,blocked,Harness routed for safety review.
+OR00000186,2023-06-10,10092,SUP003,336,executed,Harness approved.
+OR00000187,2023-06-30,10092,SUP003,336,blocked,Harness routed for safety review.
+OR00000188,2023-07-18,10092,SUP003,336,executed,Harness approved.
+OR00000189,2023-08-05,10092,SUP003,336,executed,Harness approved.
+OR00000190,2023-08-23,10092,SUP003,336,executed,Harness approved.
+OR00000191,2023-09-01,10092,SUP003,336,blocked,Harness routed for safety review.
+OR00000192,2023-09-08,10092,SUP003,336,executed,Harness approved.
+OR00000193,2023-09-17,10092,SUP003,336,executed,Harness approved.
+OR00000194,2023-09-26,10092,SUP003,336,executed,Harness approved.
+OR00000195,2023-10-05,10092,SUP003,336,executed,Harness approved.
+OR00000196,2023-10-25,10092,SUP003,336,blocked,Harness routed for safety review.
+OR00000197,2023-12-02,10092,SUP003,336,blocked,Harness routed for safety review.
+OR00000198,2023-12-31,10092,SUP003,336,blocked,Harness routed for safety review.
+OR00000199,2024-01-22,10092,SUP003,336,executed,Harness approved.
+OR00000200,2024-03-16,10092,SUP003,336,executed,Harness approved.
+OR00000201,2024-04-12,10092,SUP003,336,requires_review,Harness routed for safety review.
+OR00000202,2024-05-04,10092,SUP003,336,requires_review,Harness routed for safety review.
+OR00000203,2024-06-24,10092,SUP003,336,blocked,Harness routed for safety review.
+OR00000204,2024-07-14,10092,SUP003,336,executed,Harness approved.
+OR00000205,2024-08-06,10092,SUP003,336,executed,Harness approved.
+OR00000206,2024-08-29,10092,SUP003,336,blocked,Harness routed for safety review.
+OR00000207,2024-09-19,10092,SUP003,336,executed,Harness approved.
+OR00000208,2024-10-06,10092,SUP003,336,executed,Harness approved.
+OR00000209,2024-10-25,10092,SUP003,336,executed,Harness approved.
+OR00000210,2024-11-14,10092,SUP003,336,requires_review,Harness routed for safety review.
+OR00000211,2025-01-06,10092,SUP003,336,executed,Harness approved.
+OR00000212,2025-01-29,10092,SUP003,336,executed,Harness approved.
+OR00000213,2025-03-15,10092,SUP003,336,executed,Harness approved.
+OR00000214,2025-04-11,10092,SUP003,336,executed,Harness approved.
+OR00000215,2025-05-06,10092,SUP003,336,executed,Harness approved.
+OR00000216,2025-06-28,10092,SUP003,336,executed,Harness approved.
+OR00000217,2025-07-21,10092,SUP003,336,executed,Harness approved.
+OR00000218,2025-08-18,10092,SUP003,336,executed,Harness approved.
+OR00000219,2025-09-14,10092,SUP003,336,executed,Harness approved.
+OR00000220,2025-10-12,10092,SUP003,336,requires_review,Harness routed for safety review.
+OR00000221,2025-11-11,10092,SUP003,336,executed,Harness approved.
+OR00000222,2026-01-09,10092,SUP003,336,executed,Harness approved.
+OR00000223,2026-02-14,10092,SUP003,336,requires_review,Harness routed for safety review.
+OR00000224,2026-03-18,10092,SUP003,336,blocked,Harness routed for safety review.
+OR00000225,2026-04-18,10092,SUP003,336,executed,Harness approved.
+OR00000226,2026-05-17,10092,SUP003,336,executed,Harness approved.
+OR00000227,2022-02-22,10093,SUP001,176,requires_review,Harness routed for safety review.
+OR00000228,2022-03-09,10093,SUP001,176,executed,Harness approved.
+OR00000229,2022-03-25,10093,SUP001,176,blocked,Harness routed for safety review.
+OR00000230,2022-04-09,10093,SUP001,176,blocked,Harness routed for safety review.
+OR00000231,2022-04-23,10093,SUP001,176,executed,Harness approved.
+OR00000232,2022-05-06,10093,SUP001,176,requires_review,Harness routed for safety review.
+OR00000233,2022-05-18,10093,SUP001,176,requires_review,Harness routed for safety review.
+OR00000234,2022-06-08,10093,SUP001,176,executed,Harness approved.
+OR00000235,2022-06-19,10093,SUP001,176,executed,Harness approved.
+OR00000236,2022-07-04,10093,SUP001,176,requires_review,Harness routed for safety review.
+OR00000237,2022-07-15,10093,SUP001,176,blocked,Harness routed for safety review.
+OR00000238,2022-07-27,10093,SUP001,176,executed,Harness approved.
+OR00000239,2022-08-08,10093,SUP001,176,blocked,Harness routed for safety review.
+OR00000240,2022-08-18,10093,SUP001,176,requires_review,Harness routed for safety review.
+OR00000241,2022-08-29,10093,SUP001,176,executed,Harness approved.
+OR00000242,2022-09-07,10093,SUP001,176,blocked,Harness routed for safety review.
+OR00000243,2022-09-20,10093,SUP001,176,requires_review,Harness routed for safety review.
+OR00000244,2022-10-03,10093,SUP001,176,executed,Harness approved.
+OR00000245,2023-02-10,10093,SUP001,176,blocked,Harness routed for safety review.
+OR00000246,2023-02-25,10093,SUP001,176,requires_review,Harness routed for safety review.
+OR00000247,2023-03-13,10093,SUP001,176,executed,Harness approved.
+OR00000248,2023-03-26,10093,SUP001,176,executed,Harness approved.
+OR00000249,2023-04-13,10093,SUP001,176,executed,Harness approved.
+OR00000250,2023-04-28,10093,SUP001,176,blocked,Harness routed for safety review.
+OR00000251,2023-05-11,10093,SUP001,176,executed,Harness approved.
+OR00000252,2023-05-24,10093,SUP001,176,executed,Harness approved.
+OR00000253,2023-06-07,10093,SUP001,176,executed,Harness approved.
+OR00000254,2023-06-23,10093,SUP001,176,executed,Harness approved.
+OR00000255,2023-07-03,10093,SUP001,176,executed,Harness approved.
+OR00000256,2023-07-18,10093,SUP001,176,executed,Harness approved.
+OR00000257,2023-08-07,10093,SUP001,176,blocked,Harness routed for safety review.
+OR00000258,2023-08-21,10093,SUP001,176,executed,Harness approved.
+OR00000259,2023-09-02,10093,SUP001,176,requires_review,Harness routed for safety review.
+OR00000260,2023-10-03,10093,SUP001,176,requires_review,Harness routed for safety review.
+OR00000261,2023-12-07,10093,SUP001,176,executed,Harness approved.
+OR00000262,2024-01-05,10093,SUP001,176,blocked,Harness routed for safety review.
+OR00000263,2024-02-02,10093,SUP001,176,requires_review,Harness routed for safety review.
+OR00000264,2024-03-21,10093,SUP001,176,executed,Harness approved.
+OR00000265,2024-05-08,10093,SUP001,176,executed,Harness approved.
+OR00000266,2024-07-06,10093,SUP001,176,requires_review,Harness routed for safety review.
+OR00000267,2024-07-25,10093,SUP001,176,executed,Harness approved.
+OR00000268,2024-08-12,10093,SUP001,176,blocked,Harness routed for safety review.
+OR00000269,2024-08-30,10093,SUP001,176,requires_review,Harness routed for safety review.
+OR00000270,2024-09-17,10093,SUP001,176,executed,Harness approved.
+OR00000271,2024-10-06,10093,SUP001,176,executed,Harness approved.
+OR00000272,2024-10-25,10093,SUP001,176,executed,Harness approved.
+OR00000273,2024-12-10,10093,SUP001,176,executed,Harness approved.
+OR00000274,2025-01-03,10093,SUP001,176,executed,Harness approved.
+OR00000275,2025-01-22,10093,SUP001,176,executed,Harness approved.
+OR00000276,2025-02-09,10093,SUP001,176,blocked,Harness routed for safety review.
+OR00000277,2025-02-28,10093,SUP001,176,blocked,Harness routed for safety review.
+OR00000278,2025-03-28,10093,SUP001,176,blocked,Harness routed for safety review.
+OR00000279,2025-04-29,10093,SUP001,176,executed,Harness approved.
+OR00000280,2025-05-16,10093,SUP001,176,requires_review,Harness routed for safety review.
+OR00000281,2025-06-02,10093,SUP001,176,executed,Harness approved.
+OR00000282,2025-06-18,10093,SUP001,176,executed,Harness approved.
+OR00000283,2025-07-03,10093,SUP001,176,executed,Harness approved.
+OR00000284,2025-07-23,10093,SUP001,176,executed,Harness approved.
+OR00000285,2025-08-07,10093,SUP001,176,executed,Harness approved.
+OR00000286,2025-08-22,10093,SUP001,176,blocked,Harness routed for safety review.
+OR00000287,2025-09-05,10093,SUP001,176,executed,Harness approved.
+OR00000288,2025-09-20,10093,SUP001,176,requires_review,Harness routed for safety review.
+OR00000289,2025-10-07,10093,SUP001,176,requires_review,Harness routed for safety review.
+OR00000290,2025-11-04,10093,SUP001,176,blocked,Harness routed for safety review.
+OR00000291,2025-12-24,10093,SUP001,176,requires_review,Harness routed for safety review.
+OR00000292,2026-01-15,10093,SUP001,176,blocked,Harness routed for safety review.
+OR00000293,2026-02-09,10093,SUP001,176,blocked,Harness routed for safety review.
+OR00000294,2026-03-13,10093,SUP001,176,requires_review,Harness routed for safety review.
+OR00000295,2026-04-02,10093,SUP001,176,blocked,Harness routed for safety review.
+OR00000296,2026-04-26,10093,SUP001,176,blocked,Harness routed for safety review.
+OR00000297,2026-05-17,10093,SUP001,176,requires_review,Harness routed for safety review.
+OR00000298,2021-03-20,10094,SUP001,200,executed,Harness approved.
+OR00000299,2021-04-30,10094,SUP001,200,blocked,Harness routed for safety review.
+OR00000300,2021-06-06,10094,SUP001,200,executed,Harness approved.
+OR00000301,2021-07-02,10094,SUP001,200,executed,Harness approved.
+OR00000302,2021-07-26,10094,SUP001,200,blocked,Harness routed for safety review.
+OR00000303,2021-08-21,10094,SUP001,200,executed,Harness approved.
+OR00000304,2021-09-22,10094,SUP001,200,executed,Harness approved.
+OR00000305,2021-10-24,10094,SUP001,200,executed,Harness approved.
+OR00000306,2021-11-25,10094,SUP001,200,blocked,Harness routed for safety review.
+OR00000307,2021-12-23,10094,SUP001,200,executed,Harness approved.
+OR00000308,2022-02-07,10094,SUP001,200,executed,Harness approved.
+OR00000309,2022-03-17,10094,SUP001,200,executed,Harness approved.
+OR00000310,2022-04-16,10094,SUP001,200,blocked,Harness routed for safety review.
+OR00000311,2022-05-09,10094,SUP001,200,blocked,Harness routed for safety review.
+OR00000312,2022-06-02,10094,SUP001,200,executed,Harness approved.
+OR00000313,2022-06-26,10094,SUP001,200,executed,Harness approved.
+OR00000314,2022-07-19,10094,SUP001,200,executed,Harness approved.
+OR00000315,2022-08-11,10094,SUP001,200,executed,Harness approved.
+OR00000316,2022-08-28,10094,SUP001,200,blocked,Harness routed for safety review.
+OR00000317,2022-09-19,10094,SUP001,200,executed,Harness approved.
+OR00000318,2022-10-12,10094,SUP001,200,blocked,Harness routed for safety review.
+OR00000319,2022-11-04,10094,SUP001,200,executed,Harness approved.
+OR00000320,2022-11-30,10094,SUP001,200,requires_review,Harness routed for safety review.
+OR00000321,2022-12-23,10094,SUP001,200,executed,Harness approved.
+OR00000322,2023-01-25,10094,SUP001,200,requires_review,Harness routed for safety review.
+OR00000323,2023-02-24,10094,SUP001,200,executed,Harness approved.
+OR00000324,2023-03-26,10094,SUP001,200,requires_review,Harness routed for safety review.
+OR00000325,2023-04-23,10094,SUP001,200,executed,Harness approved.
+OR00000326,2023-05-19,10094,SUP001,200,executed,Harness approved.
+OR00000327,2023-06-13,10094,SUP001,200,executed,Harness approved.
+OR00000328,2023-06-30,10094,SUP001,200,executed,Harness approved.
+OR00000329,2023-07-15,10094,SUP001,200,executed,Harness approved.
+OR00000330,2023-08-02,10094,SUP001,200,executed,Harness approved.
+OR00000331,2023-08-17,10094,SUP001,200,requires_review,Harness routed for safety review.
+OR00000332,2023-08-31,10094,SUP001,200,executed,Harness approved.
+OR00000333,2023-09-16,10094,SUP001,200,executed,Harness approved.
+OR00000334,2023-10-09,10094,SUP001,200,executed,Harness approved.
+OR00000335,2023-11-01,10094,SUP001,200,executed,Harness approved.
+OR00000336,2023-11-24,10094,SUP001,200,blocked,Harness routed for safety review.
+OR00000337,2023-12-18,10094,SUP001,200,executed,Harness approved.
+OR00000338,2024-01-11,10094,SUP001,200,executed,Harness approved.
+OR00000339,2024-02-12,10094,SUP001,200,executed,Harness approved.
+OR00000340,2024-03-14,10094,SUP001,200,executed,Harness approved.
+OR00000341,2024-04-09,10094,SUP001,200,requires_review,Harness routed for safety review.
+OR00000342,2024-05-04,10094,SUP001,200,executed,Harness approved.
+OR00000343,2024-05-29,10094,SUP001,200,executed,Harness approved.
+OR00000344,2024-06-20,10094,SUP001,200,executed,Harness approved.
+OR00000345,2024-07-12,10094,SUP001,200,executed,Harness approved.
+OR00000346,2024-07-31,10094,SUP001,200,executed,Harness approved.
+OR00000347,2024-08-16,10094,SUP001,200,executed,Harness approved.
+OR00000348,2024-09-02,10094,SUP001,200,requires_review,Harness routed for safety review.
+OR00000349,2024-09-22,10094,SUP001,200,executed,Harness approved.
+OR00000350,2024-10-11,10094,SUP001,200,executed,Harness approved.
+OR00000351,2024-11-03,10094,SUP001,200,executed,Harness approved.
+OR00000352,2024-11-26,10094,SUP001,200,executed,Harness approved.
+OR00000353,2024-12-19,10094,SUP001,200,executed,Harness approved.
+OR00000354,2025-01-14,10094,SUP001,200,executed,Harness approved.
+OR00000355,2025-02-12,10094,SUP001,200,requires_review,Harness routed for safety review.
+OR00000356,2025-03-09,10094,SUP001,200,blocked,Harness routed for safety review.
+OR00000357,2025-04-02,10094,SUP001,200,requires_review,Harness routed for safety review.
+OR00000358,2025-04-26,10094,SUP001,200,requires_review,Harness routed for safety review.
+OR00000359,2025-05-22,10094,SUP001,200,executed,Harness approved.
+OR00000360,2025-06-14,10094,SUP001,200,executed,Harness approved.
+OR00000361,2025-07-05,10094,SUP001,200,requires_review,Harness routed for safety review.
+OR00000362,2025-07-26,10094,SUP001,200,blocked,Harness routed for safety review.
+OR00000363,2025-08-15,10094,SUP001,200,executed,Harness approved.
+OR00000364,2025-09-06,10094,SUP001,200,executed,Harness approved.
+OR00000365,2025-09-27,10094,SUP001,200,blocked,Harness routed for safety review.
+OR00000366,2025-10-25,10094,SUP001,200,blocked,Harness routed for safety review.
+OR00000367,2025-11-25,10094,SUP001,200,executed,Harness approved.
+OR00000368,2025-12-21,10094,SUP001,200,executed,Harness approved.
+OR00000369,2026-01-26,10094,SUP001,200,executed,Harness approved.
+OR00000370,2026-02-25,10094,SUP001,200,blocked,Harness routed for safety review.
+OR00000371,2026-03-26,10094,SUP001,200,executed,Harness approved.
+OR00000372,2026-04-22,10094,SUP001,200,executed,Harness approved.
+OR00000373,2026-05-17,10094,SUP001,200,executed,Harness approved.
+OR00000374,2023-08-18,10095,SUP001,80,executed,Harness approved.
+OR00000375,2023-08-29,10095,SUP001,80,blocked,Harness routed for safety review.
+OR00000376,2023-09-08,10095,SUP001,80,executed,Harness approved.
+OR00000377,2023-09-21,10095,SUP001,80,executed,Harness approved.
+OR00000378,2023-10-06,10095,SUP001,80,executed,Harness approved.
+OR00000379,2023-10-19,10095,SUP001,80,requires_review,Harness routed for safety review.
+OR00000380,2023-11-02,10095,SUP001,80,blocked,Harness routed for safety review.
+OR00000381,2023-11-09,10095,SUP001,80,executed,Harness approved.
+OR00000382,2023-11-18,10095,SUP001,80,blocked,Harness routed for safety review.
+OR00000383,2023-11-29,10095,SUP001,80,blocked,Harness routed for safety review.
+OR00000384,2023-12-06,10095,SUP001,80,executed,Harness approved.
+OR00000385,2023-12-12,10095,SUP001,80,executed,Harness approved.
+OR00000386,2023-12-19,10095,SUP001,80,executed,Harness approved.
+OR00000387,2023-12-29,10095,SUP001,80,blocked,Harness routed for safety review.
+OR00000388,2024-01-12,10095,SUP001,80,executed,Harness approved.
+OR00000389,2024-01-26,10095,SUP001,80,executed,Harness approved.
+OR00000390,2024-02-07,10095,SUP001,80,blocked,Harness routed for safety review.
+OR00000391,2024-02-19,10095,SUP001,80,executed,Harness approved.
+OR00000392,2024-03-12,10095,SUP001,80,requires_review,Harness routed for safety review.
+OR00000393,2024-03-30,10095,SUP001,80,executed,Harness approved.
+OR00000394,2024-04-15,10095,SUP001,80,blocked,Harness routed for safety review.
+OR00000395,2024-04-29,10095,SUP001,80,executed,Harness approved.
+OR00000396,2024-05-14,10095,SUP001,80,executed,Harness approved.
+OR00000397,2024-06-03,10095,SUP001,80,requires_review,Harness routed for safety review.
+OR00000398,2024-06-15,10095,SUP001,80,executed,Harness approved.
+OR00000399,2024-06-30,10095,SUP001,80,executed,Harness approved.
+OR00000400,2024-07-14,10095,SUP001,80,blocked,Harness routed for safety review.
+OR00000401,2024-07-26,10095,SUP001,80,blocked,Harness routed for safety review.
+OR00000402,2024-08-07,10095,SUP001,80,executed,Harness approved.
+OR00000403,2024-08-15,10095,SUP001,80,executed,Harness approved.
+OR00000404,2024-08-31,10095,SUP001,80,executed,Harness approved.
+OR00000405,2024-09-13,10095,SUP001,80,executed,Harness approved.
+OR00000406,2024-10-03,10095,SUP001,80,blocked,Harness routed for safety review.
+OR00000407,2024-10-20,10095,SUP001,80,executed,Harness approved.
+OR00000408,2024-11-08,10095,SUP001,80,executed,Harness approved.
+OR00000409,2024-11-20,10095,SUP001,80,blocked,Harness routed for safety review.
+OR00000410,2024-11-30,10095,SUP001,80,executed,Harness approved.
+OR00000411,2024-12-22,10095,SUP001,80,executed,Harness approved.
+OR00000412,2024-12-29,10095,SUP001,80,executed,Harness approved.
+OR00000413,2025-01-05,10095,SUP001,80,executed,Harness approved.
+OR00000414,2025-01-12,10095,SUP001,80,blocked,Harness routed for safety review.
+OR00000415,2025-01-21,10095,SUP001,80,blocked,Harness routed for safety review.
+OR00000416,2025-01-30,10095,SUP001,80,executed,Harness approved.
+OR00000417,2025-02-06,10095,SUP001,80,executed,Harness approved.
+OR00000418,2025-02-15,10095,SUP001,80,executed,Harness approved.
+OR00000419,2025-02-26,10095,SUP001,80,executed,Harness approved.
+OR00000420,2025-03-08,10095,SUP001,80,requires_review,Harness routed for safety review.
+OR00000421,2025-03-29,10095,SUP001,80,requires_review,Harness routed for safety review.
+OR00000422,2025-04-16,10095,SUP001,80,executed,Harness approved.
+OR00000423,2025-05-03,10095,SUP001,80,blocked,Harness routed for safety review.
+OR00000424,2025-05-15,10095,SUP001,80,executed,Harness approved.
+OR00000425,2025-05-26,10095,SUP001,80,executed,Harness approved.
+OR00000426,2025-06-07,10095,SUP001,80,executed,Harness approved.
+OR00000427,2025-06-16,10095,SUP001,80,executed,Harness approved.
+OR00000428,2025-06-28,10095,SUP001,80,requires_review,Harness routed for safety review.
+OR00000429,2025-07-08,10095,SUP001,80,executed,Harness approved.
+OR00000430,2025-07-22,10095,SUP001,80,blocked,Harness routed for safety review.
+OR00000431,2025-08-07,10095,SUP001,80,blocked,Harness routed for safety review.
+OR00000432,2025-08-20,10095,SUP001,80,executed,Harness approved.
+OR00000433,2025-09-06,10095,SUP001,80,executed,Harness approved.
+OR00000434,2025-09-22,10095,SUP001,80,executed,Harness approved.
+OR00000435,2025-10-10,10095,SUP001,80,blocked,Harness routed for safety review.
+OR00000436,2025-10-28,10095,SUP001,80,executed,Harness approved.
+OR00000437,2025-11-24,10095,SUP001,80,requires_review,Harness routed for safety review.
+OR00000438,2025-12-23,10095,SUP001,80,blocked,Harness routed for safety review.
+OR00000439,2026-01-06,10095,SUP001,80,executed,Harness approved.
+OR00000440,2026-01-24,10095,SUP001,80,executed,Harness approved.
+OR00000441,2026-02-06,10095,SUP001,80,executed,Harness approved.
+OR00000442,2026-02-21,10095,SUP001,80,executed,Harness approved.
+OR00000443,2026-03-15,10095,SUP001,80,executed,Harness approved.
+OR00000444,2026-04-02,10095,SUP001,80,executed,Harness approved.
+OR00000445,2026-04-18,10095,SUP001,80,executed,Harness approved.
+OR00000446,2026-05-06,10095,SUP001,80,executed,Harness approved.
+OR00000447,2021-01-30,10100,SUP003,90,executed,Harness approved.
+OR00000448,2021-02-04,10100,SUP003,90,executed,Harness approved.
+OR00000449,2021-02-09,10100,SUP003,90,blocked,Harness routed for safety review.
+OR00000450,2021-09-30,10100,SUP003,90,blocked,Harness routed for safety review.
+OR00000451,2021-10-10,10100,SUP003,90,executed,Harness approved.
+OR00000452,2021-10-25,10100,SUP003,90,executed,Harness approved.
+OR00000453,2021-11-08,10100,SUP003,90,executed,Harness approved.
+OR00000454,2021-11-20,10100,SUP003,90,executed,Harness approved.
+OR00000455,2021-12-03,10100,SUP003,90,executed,Harness approved.
+OR00000456,2021-12-19,10100,SUP003,90,executed,Harness approved.
+OR00000457,2021-12-31,10100,SUP003,90,requires_review,Harness routed for safety review.
+OR00000458,2022-01-15,10100,SUP003,90,blocked,Harness routed for safety review.
+OR00000459,2022-02-01,10100,SUP003,90,blocked,Harness routed for safety review.
+OR00000460,2022-02-16,10100,SUP003,90,executed,Harness approved.
+OR00000461,2022-03-08,10100,SUP003,90,blocked,Harness routed for safety review.
+OR00000462,2022-03-25,10100,SUP003,90,requires_review,Harness routed for safety review.
+OR00000463,2022-04-09,10100,SUP003,90,executed,Harness approved.
+OR00000464,2022-05-03,10100,SUP003,90,executed,Harness approved.
+OR00000465,2022-05-19,10100,SUP003,90,requires_review,Harness routed for safety review.
+OR00000466,2022-06-03,10100,SUP003,90,executed,Harness approved.
+OR00000467,2022-06-18,10100,SUP003,90,requires_review,Harness routed for safety review.
+OR00000468,2022-07-01,10100,SUP003,90,executed,Harness approved.
+OR00000469,2022-07-21,10100,SUP003,90,executed,Harness approved.
+OR00000470,2022-08-14,10100,SUP003,90,executed,Harness approved.
+OR00000471,2022-09-02,10100,SUP003,90,executed,Harness approved.
+OR00000472,2022-09-27,10100,SUP003,90,executed,Harness approved.
+OR00000473,2022-10-19,10100,SUP003,90,executed,Harness approved.
+OR00000474,2022-11-09,10100,SUP003,90,executed,Harness approved.
+OR00000475,2022-11-28,10100,SUP003,90,requires_review,Harness routed for safety review.
+OR00000476,2022-12-21,10100,SUP003,90,requires_review,Harness routed for safety review.
+OR00000477,2023-01-02,10100,SUP003,90,blocked,Harness routed for safety review.
+OR00000478,2023-01-17,10100,SUP003,90,executed,Harness approved.
+OR00000479,2023-01-30,10100,SUP003,90,blocked,Harness routed for safety review.
+OR00000480,2023-02-22,10100,SUP003,90,blocked,Harness routed for safety review.
+OR00000481,2023-03-20,10100,SUP003,90,executed,Harness approved.
+OR00000482,2023-04-18,10100,SUP003,90,requires_review,Harness routed for safety review.
+OR00000483,2023-05-11,10100,SUP003,90,executed,Harness approved.
+OR00000484,2023-06-06,10100,SUP003,90,executed,Harness approved.
+OR00000485,2023-07-01,10100,SUP003,90,requires_review,Harness routed for safety review.
+OR00000486,2023-07-27,10100,SUP003,90,blocked,Harness routed for safety review.
+OR00000487,2023-08-10,10100,SUP003,90,executed,Harness approved.
+OR00000488,2023-08-16,10100,SUP003,90,executed,Harness approved.
+OR00000489,2023-08-23,10100,SUP003,90,executed,Harness approved.
+OR00000490,2023-08-31,10100,SUP003,90,executed,Harness approved.
+OR00000491,2023-09-08,10100,SUP003,90,executed,Harness approved.
+OR00000492,2023-09-15,10100,SUP003,90,executed,Harness approved.
+OR00000493,2023-09-24,10100,SUP003,90,executed,Harness approved.
+OR00000494,2023-10-07,10100,SUP003,90,executed,Harness approved.
+OR00000495,2023-11-01,10100,SUP003,90,executed,Harness approved.
+OR00000496,2023-11-19,10100,SUP003,90,executed,Harness approved.
+OR00000497,2023-11-25,10100,SUP003,90,executed,Harness approved.
+OR00000498,2023-12-11,10100,SUP003,90,executed,Harness approved.
+OR00000499,2024-01-11,10100,SUP003,90,requires_review,Harness routed for safety review.
+OR00000500,2024-02-12,10100,SUP003,90,executed,Harness approved.
+OR00000501,2024-03-18,10100,SUP003,90,executed,Harness approved.
+OR00000502,2024-05-13,10100,SUP003,90,blocked,Harness routed for safety review.
+OR00000503,2024-06-07,10100,SUP003,90,requires_review,Harness routed for safety review.
+OR00000504,2024-07-01,10100,SUP003,90,executed,Harness approved.
+OR00000505,2024-08-15,10100,SUP003,90,executed,Harness approved.
+OR00000506,2024-09-12,10100,SUP003,90,blocked,Harness routed for safety review.
+OR00000507,2024-10-12,10100,SUP003,90,executed,Harness approved.
+OR00000508,2025-01-12,10100,SUP003,90,blocked,Harness routed for safety review.
+OR00000509,2025-02-10,10100,SUP003,90,blocked,Harness routed for safety review.
+OR00000510,2025-05-03,10100,SUP003,90,requires_review,Harness routed for safety review.
+OR00000511,2025-06-14,10100,SUP003,90,executed,Harness approved.
+OR00000512,2025-08-17,10100,SUP003,90,requires_review,Harness routed for safety review.
+OR00000513,2025-09-22,10100,SUP003,90,executed,Harness approved.
+OR00000514,2026-02-10,10100,SUP003,90,executed,Harness approved.
+OR00000515,2026-03-10,10100,SUP003,90,executed,Harness approved.
+OR00000516,2026-04-15,10100,SUP003,90,executed,Harness approved.
+OR00000517,2021-02-20,35035,SUP002,84,executed,Harness approved.
+OR00000518,2021-04-07,35035,SUP002,84,executed,Harness approved.
+OR00000519,2021-05-13,35035,SUP002,84,blocked,Harness routed for safety review.
+OR00000520,2021-06-14,35035,SUP002,84,executed,Harness approved.
+OR00000521,2021-07-02,35035,SUP002,84,requires_review,Harness routed for safety review.
+OR00000522,2021-07-24,35035,SUP002,84,executed,Harness approved.
+OR00000523,2021-08-24,35035,SUP002,84,executed,Harness approved.
+OR00000524,2021-12-10,35035,SUP002,84,blocked,Harness routed for safety review.
+OR00000525,2022-01-28,35035,SUP002,84,executed,Harness approved.
+OR00000526,2022-02-26,35035,SUP002,84,executed,Harness approved.
+OR00000527,2022-03-20,35035,SUP002,84,executed,Harness approved.
+OR00000528,2022-04-18,35035,SUP002,84,executed,Harness approved.
+OR00000529,2022-05-11,35035,SUP002,84,executed,Harness approved.
+OR00000530,2022-06-07,35035,SUP002,84,executed,Harness approved.
+OR00000531,2022-06-19,35035,SUP002,84,executed,Harness approved.
+OR00000532,2022-07-09,35035,SUP002,84,executed,Harness approved.
+OR00000533,2022-07-26,35035,SUP002,84,requires_review,Harness routed for safety review.
+OR00000534,2022-08-10,35035,SUP002,84,executed,Harness approved.
+OR00000535,2022-08-18,35035,SUP002,84,executed,Harness approved.
+OR00000536,2022-09-02,35035,SUP002,84,executed,Harness approved.
+OR00000537,2022-09-11,35035,SUP002,84,executed,Harness approved.
+OR00000538,2022-09-23,35035,SUP002,84,executed,Harness approved.
+OR00000539,2022-10-04,35035,SUP002,84,executed,Harness approved.
+OR00000540,2022-10-22,35035,SUP002,84,executed,Harness approved.
+OR00000541,2022-11-12,35035,SUP002,84,requires_review,Harness routed for safety review.
+OR00000542,2022-12-29,35035,SUP002,84,blocked,Harness routed for safety review.
+OR00000543,2023-02-10,35035,SUP002,84,requires_review,Harness routed for safety review.
+OR00000544,2023-02-26,35035,SUP002,84,executed,Harness approved.
+OR00000545,2023-03-18,35035,SUP002,84,requires_review,Harness routed for safety review.
+OR00000546,2023-04-07,35035,SUP002,84,executed,Harness approved.
+OR00000547,2023-04-21,35035,SUP002,84,executed,Harness approved.
+OR00000548,2023-05-08,35035,SUP002,84,requires_review,Harness routed for safety review.
+OR00000549,2023-05-24,35035,SUP002,84,blocked,Harness routed for safety review.
+OR00000550,2023-06-09,35035,SUP002,84,blocked,Harness routed for safety review.
+OR00000551,2023-06-22,35035,SUP002,84,executed,Harness approved.
+OR00000552,2023-07-01,35035,SUP002,84,executed,Harness approved.
+OR00000553,2023-07-11,35035,SUP002,84,executed,Harness approved.
+OR00000554,2023-07-23,35035,SUP002,84,executed,Harness approved.
+OR00000555,2023-08-08,35035,SUP002,84,executed,Harness approved.
+OR00000556,2023-08-21,35035,SUP002,84,executed,Harness approved.
+OR00000557,2023-09-05,35035,SUP002,84,blocked,Harness routed for safety review.
+OR00000558,2023-09-23,35035,SUP002,84,blocked,Harness routed for safety review.
+OR00000559,2023-10-28,35035,SUP002,84,requires_review,Harness routed for safety review.
+OR00000560,2023-11-27,35035,SUP002,84,executed,Harness approved.
+OR00000561,2023-12-27,35035,SUP002,84,executed,Harness approved.
+OR00000562,2024-01-13,35035,SUP002,84,requires_review,Harness routed for safety review.
+OR00000563,2024-02-03,35035,SUP002,84,requires_review,Harness routed for safety review.
+OR00000564,2024-03-01,35035,SUP002,84,executed,Harness approved.
+OR00000565,2024-03-15,35035,SUP002,84,executed,Harness approved.
+OR00000566,2024-03-30,35035,SUP002,84,blocked,Harness routed for safety review.
+OR00000567,2024-04-10,35035,SUP002,84,executed,Harness approved.
+OR00000568,2024-04-25,35035,SUP002,84,executed,Harness approved.
+OR00000569,2024-05-09,35035,SUP002,84,executed,Harness approved.
+OR00000570,2024-05-22,35035,SUP002,84,requires_review,Harness routed for safety review.
+OR00000571,2024-06-08,35035,SUP002,84,executed,Harness approved.
+OR00000572,2024-06-21,35035,SUP002,84,executed,Harness approved.
+OR00000573,2024-07-06,35035,SUP002,84,executed,Harness approved.
+OR00000574,2024-07-22,35035,SUP002,84,requires_review,Harness routed for safety review.
+OR00000575,2024-08-04,35035,SUP002,84,requires_review,Harness routed for safety review.
+OR00000576,2024-08-18,35035,SUP002,84,blocked,Harness routed for safety review.
+OR00000577,2024-09-05,35035,SUP002,84,executed,Harness approved.
+OR00000578,2024-09-24,35035,SUP002,84,requires_review,Harness routed for safety review.
+OR00000579,2025-01-12,35035,SUP002,84,requires_review,Harness routed for safety review.
+OR00000580,2025-03-13,35035,SUP002,84,executed,Harness approved.
+OR00000581,2025-07-07,35035,SUP002,84,executed,Harness approved.
+OR00000582,2025-09-25,35035,SUP002,84,blocked,Harness routed for safety review.
+OR00000583,2026-02-08,35035,SUP002,84,executed,Harness approved.
+OR00000584,2026-03-26,35035,SUP002,84,executed,Harness approved.
+OR00000585,2021-10-01,35192,SUP003,80,executed,Harness approved.
+OR00000586,2021-10-15,35192,SUP003,80,executed,Harness approved.
+OR00000587,2021-10-29,35192,SUP003,80,executed,Harness approved.
+OR00000588,2021-11-10,35192,SUP003,80,executed,Harness approved.
+OR00000589,2021-11-22,35192,SUP003,80,executed,Harness approved.
+OR00000590,2021-12-07,35192,SUP003,80,executed,Harness approved.
+OR00000591,2021-12-19,35192,SUP003,80,executed,Harness approved.
+OR00000592,2021-12-30,35192,SUP003,80,requires_review,Harness routed for safety review.
+OR00000593,2022-01-14,35192,SUP003,80,requires_review,Harness routed for safety review.
+OR00000594,2022-01-29,35192,SUP003,80,executed,Harness approved.
+OR00000595,2022-02-13,35192,SUP003,80,executed,Harness approved.
+OR00000596,2022-03-07,35192,SUP003,80,blocked,Harness routed for safety review.
+OR00000597,2022-03-31,35192,SUP003,80,blocked,Harness routed for safety review.
+OR00000598,2022-04-25,35192,SUP003,80,executed,Harness approved.
+OR00000599,2022-05-19,35192,SUP003,80,blocked,Harness routed for safety review.
+OR00000600,2022-06-09,35192,SUP003,80,requires_review,Harness routed for safety review.
+OR00000601,2022-06-30,35192,SUP003,80,executed,Harness approved.
+OR00000602,2022-07-20,35192,SUP003,80,executed,Harness approved.
+OR00000603,2022-08-04,35192,SUP003,80,executed,Harness approved.
+OR00000604,2022-08-18,35192,SUP003,80,executed,Harness approved.
+OR00000605,2022-09-02,35192,SUP003,80,executed,Harness approved.
+OR00000606,2022-09-18,35192,SUP003,80,blocked,Harness routed for safety review.
+OR00000607,2022-10-09,35192,SUP003,80,executed,Harness approved.
+OR00000608,2022-10-29,35192,SUP003,80,requires_review,Harness routed for safety review.
+OR00000609,2022-11-14,35192,SUP003,80,blocked,Harness routed for safety review.
+OR00000610,2022-11-27,35192,SUP003,80,executed,Harness approved.
+OR00000611,2022-12-13,35192,SUP003,80,executed,Harness approved.
+OR00000612,2022-12-28,35192,SUP003,80,executed,Harness approved.
+OR00000613,2023-01-16,35192,SUP003,80,blocked,Harness routed for safety review.
+OR00000614,2023-02-11,35192,SUP003,80,requires_review,Harness routed for safety review.
+OR00000615,2023-03-02,35192,SUP003,80,blocked,Harness routed for safety review.
+OR00000616,2023-03-22,35192,SUP003,80,requires_review,Harness routed for safety review.
+OR00000617,2023-04-07,35192,SUP003,80,requires_review,Harness routed for safety review.
+OR00000618,2023-04-28,35192,SUP003,80,executed,Harness approved.
+OR00000619,2023-05-17,35192,SUP003,80,requires_review,Harness routed for safety review.
+OR00000620,2023-06-08,35192,SUP003,80,requires_review,Harness routed for safety review.
+OR00000621,2023-06-25,35192,SUP003,80,executed,Harness approved.
+OR00000622,2023-07-14,35192,SUP003,80,requires_review,Harness routed for safety review.
+OR00000623,2023-08-06,35192,SUP003,80,executed,Harness approved.
+OR00000624,2023-08-17,35192,SUP003,80,requires_review,Harness routed for safety review.
+OR00000625,2023-08-28,35192,SUP003,80,blocked,Harness routed for safety review.
+OR00000626,2023-09-06,35192,SUP003,80,blocked,Harness routed for safety review.
+OR00000627,2023-09-17,35192,SUP003,80,requires_review,Harness routed for safety review.
+OR00000628,2023-09-29,35192,SUP003,80,executed,Harness approved.
+OR00000629,2023-10-18,35192,SUP003,80,executed,Harness approved.
+OR00000630,2023-11-07,35192,SUP003,80,executed,Harness approved.
+OR00000631,2023-12-28,35192,SUP003,80,executed,Harness approved.
+OR00000632,2024-01-18,35192,SUP003,80,executed,Harness approved.
+OR00000633,2024-02-06,35192,SUP003,80,executed,Harness approved.
+OR00000634,2024-04-05,35192,SUP003,80,executed,Harness approved.
+OR00000635,2024-05-02,35192,SUP003,80,executed,Harness approved.
+OR00000636,2024-06-25,35192,SUP003,80,executed,Harness approved.
+OR00000637,2024-07-23,35192,SUP003,80,executed,Harness approved.
+OR00000638,2024-08-19,35192,SUP003,80,executed,Harness approved.
+OR00000639,2024-09-15,35192,SUP003,80,executed,Harness approved.
+OR00000640,2024-10-09,35192,SUP003,80,executed,Harness approved.
+OR00000641,2024-10-31,35192,SUP003,80,executed,Harness approved.
+OR00000642,2024-11-24,35192,SUP003,80,requires_review,Harness routed for safety review.
+OR00000643,2025-01-23,35192,SUP003,80,executed,Harness approved.
+OR00000644,2025-03-14,35192,SUP003,80,executed,Harness approved.
+OR00000645,2025-04-07,35192,SUP003,80,blocked,Harness routed for safety review.
+OR00000646,2025-05-02,35192,SUP003,80,requires_review,Harness routed for safety review.
+OR00000647,2025-06-30,35192,SUP003,80,requires_review,Harness routed for safety review.
+OR00000648,2025-08-01,35192,SUP003,80,executed,Harness approved.
+OR00000649,2025-08-30,35192,SUP003,80,requires_review,Harness routed for safety review.
+OR00000650,2025-09-25,35192,SUP003,80,executed,Harness approved.
+OR00000651,2025-10-22,35192,SUP003,80,executed,Harness approved.
+OR00000652,2025-11-17,35192,SUP003,80,executed,Harness approved.
+OR00000653,2026-01-22,35192,SUP003,80,executed,Harness approved.
+OR00000654,2026-02-22,35192,SUP003,80,executed,Harness approved.
+OR00000655,2026-03-24,35192,SUP003,80,executed,Harness approved.
+OR00000656,2026-04-28,35192,SUP003,80,executed,Harness approved.
+OR00000657,2021-03-02,45470,SUP003,100,blocked,Harness routed for safety review.
+OR00000658,2021-04-01,45470,SUP003,100,executed,Harness approved.
+OR00000659,2021-04-21,45470,SUP003,100,executed,Harness approved.
+OR00000660,2021-05-15,45470,SUP003,100,executed,Harness approved.
+OR00000661,2021-05-31,45470,SUP003,100,blocked,Harness routed for safety review.
+OR00000662,2021-06-16,45470,SUP003,100,requires_review,Harness routed for safety review.
+OR00000663,2021-07-02,45470,SUP003,100,blocked,Harness routed for safety review.
+OR00000664,2021-07-11,45470,SUP003,100,executed,Harness approved.
+OR00000665,2021-08-09,45470,SUP003,100,executed,Harness approved.
+OR00000666,2021-11-26,45470,SUP003,100,executed,Harness approved.
+OR00000667,2022-01-17,45470,SUP003,100,executed,Harness approved.
+OR00000668,2022-02-01,45470,SUP003,100,executed,Harness approved.
+OR00000669,2022-02-26,45470,SUP003,100,requires_review,Harness routed for safety review.
+OR00000670,2022-03-09,45470,SUP003,100,executed,Harness approved.
+OR00000671,2022-03-24,45470,SUP003,100,requires_review,Harness routed for safety review.
+OR00000672,2022-04-06,45470,SUP003,100,executed,Harness approved.
+OR00000673,2022-04-20,45470,SUP003,100,requires_review,Harness routed for safety review.
+OR00000674,2022-05-06,45470,SUP003,100,executed,Harness approved.
+OR00000675,2022-05-19,45470,SUP003,100,executed,Harness approved.
+OR00000676,2022-06-03,45470,SUP003,100,blocked,Harness routed for safety review.
+OR00000677,2022-06-17,45470,SUP003,100,executed,Harness approved.
+OR00000678,2022-06-27,45470,SUP003,100,executed,Harness approved.
+OR00000679,2022-07-09,45470,SUP003,100,requires_review,Harness routed for safety review.
+OR00000680,2022-07-24,45470,SUP003,100,requires_review,Harness routed for safety review.
+OR00000681,2022-08-07,45470,SUP003,100,blocked,Harness routed for safety review.
+OR00000682,2022-08-17,45470,SUP003,100,executed,Harness approved.
+OR00000683,2022-08-28,45470,SUP003,100,executed,Harness approved.
+OR00000684,2022-09-13,45470,SUP003,100,requires_review,Harness routed for safety review.
+OR00000685,2022-09-26,45470,SUP003,100,executed,Harness approved.
+OR00000686,2022-10-07,45470,SUP003,100,requires_review,Harness routed for safety review.
+OR00000687,2022-10-28,45470,SUP003,100,executed,Harness approved.
+OR00000688,2022-12-10,45470,SUP003,100,requires_review,Harness routed for safety review.
+OR00000689,2023-02-11,45470,SUP003,100,executed,Harness approved.
+OR00000690,2023-03-05,45470,SUP003,100,requires_review,Harness routed for safety review.
+OR00000691,2023-04-07,45470,SUP003,100,requires_review,Harness routed for safety review.
+OR00000692,2023-05-13,45470,SUP003,100,executed,Harness approved.
+OR00000693,2023-06-19,45470,SUP003,100,executed,Harness approved.
+OR00000694,2023-06-30,45470,SUP003,100,executed,Harness approved.
+OR00000695,2023-07-11,45470,SUP003,100,executed,Harness approved.
+OR00000696,2023-07-21,45470,SUP003,100,executed,Harness approved.
+OR00000697,2023-08-03,45470,SUP003,100,requires_review,Harness routed for safety review.
+OR00000698,2023-08-16,45470,SUP003,100,executed,Harness approved.
+OR00000699,2023-08-25,45470,SUP003,100,executed,Harness approved.
+OR00000700,2023-09-08,45470,SUP003,100,executed,Harness approved.
+OR00000701,2023-09-26,45470,SUP003,100,executed,Harness approved.
+OR00000702,2023-11-05,45470,SUP003,100,blocked,Harness routed for safety review.
+OR00000703,2023-11-30,45470,SUP003,100,blocked,Harness routed for safety review.
+OR00000704,2023-12-31,45470,SUP003,100,executed,Harness approved.
+OR00000705,2024-01-19,45470,SUP003,100,blocked,Harness routed for safety review.
+OR00000706,2024-02-13,45470,SUP003,100,executed,Harness approved.
+OR00000707,2024-03-19,45470,SUP003,100,executed,Harness approved.
+OR00000708,2024-04-02,45470,SUP003,100,executed,Harness approved.
+OR00000709,2024-04-18,45470,SUP003,100,requires_review,Harness routed for safety review.
+OR00000710,2024-04-29,45470,SUP003,100,blocked,Harness routed for safety review.
+OR00000711,2024-05-11,45470,SUP003,100,executed,Harness approved.
+OR00000712,2024-05-24,45470,SUP003,100,requires_review,Harness routed for safety review.
+OR00000713,2024-06-09,45470,SUP003,100,executed,Harness approved.
+OR00000714,2024-06-29,45470,SUP003,100,requires_review,Harness routed for safety review.
+OR00000715,2024-07-09,45470,SUP003,100,executed,Harness approved.
+OR00000716,2024-07-23,45470,SUP003,100,requires_review,Harness routed for safety review.
+OR00000717,2024-08-03,45470,SUP003,100,requires_review,Harness routed for safety review.
+OR00000718,2024-08-16,45470,SUP003,100,executed,Harness approved.
+OR00000719,2024-08-31,45470,SUP003,100,executed,Harness approved.
+OR00000720,2024-09-13,45470,SUP003,100,blocked,Harness routed for safety review.
+OR00000721,2024-09-27,45470,SUP003,100,requires_review,Harness routed for safety review.
+OR00000722,2024-12-31,45470,SUP003,100,executed,Harness approved.
+OR00000723,2025-02-07,45470,SUP003,100,executed,Harness approved.
+OR00000724,2025-03-15,45470,SUP003,100,executed,Harness approved.
+OR00000725,2025-06-16,45470,SUP003,100,executed,Harness approved.
+OR00000726,2025-07-14,45470,SUP003,100,blocked,Harness routed for safety review.
+OR00000727,2025-08-23,45470,SUP003,100,blocked,Harness routed for safety review.
+OR00000728,2025-09-26,45470,SUP003,100,executed,Harness approved.
+OR00000729,2021-02-11,45657,SUP001,230,blocked,Harness routed for safety review.
+OR00000730,2021-03-11,45657,SUP001,230,executed,Harness approved.
+OR00000731,2021-04-09,45657,SUP001,230,executed,Harness approved.
+OR00000732,2021-05-06,45657,SUP001,230,executed,Harness approved.
+OR00000733,2021-06-02,45657,SUP001,230,blocked,Harness routed for safety review.
+OR00000734,2021-06-26,45657,SUP001,230,requires_review,Harness routed for safety review.
+OR00000735,2021-07-17,45657,SUP001,230,executed,Harness approved.
+OR00000736,2021-08-09,45657,SUP001,230,blocked,Harness routed for safety review.
+OR00000737,2021-09-02,45657,SUP001,230,requires_review,Harness routed for safety review.
+OR00000738,2021-09-25,45657,SUP001,230,blocked,Harness routed for safety review.
+OR00000739,2021-10-18,45657,SUP001,230,executed,Harness approved.
+OR00000740,2021-11-09,45657,SUP001,230,executed,Harness approved.
+OR00000741,2021-11-30,45657,SUP001,230,executed,Harness approved.
+OR00000742,2021-12-18,45657,SUP001,230,executed,Harness approved.
+OR00000743,2022-01-09,45657,SUP001,230,requires_review,Harness routed for safety review.
+OR00000744,2022-02-06,45657,SUP001,230,executed,Harness approved.
+OR00000745,2022-03-04,45657,SUP001,230,executed,Harness approved.
+OR00000746,2022-03-30,45657,SUP001,230,blocked,Harness routed for safety review.
+OR00000747,2022-04-19,45657,SUP001,230,executed,Harness approved.
+OR00000748,2022-05-12,45657,SUP001,230,executed,Harness approved.
+OR00000749,2022-06-03,45657,SUP001,230,executed,Harness approved.
+OR00000750,2022-06-26,45657,SUP001,230,blocked,Harness routed for safety review.
+OR00000751,2022-07-21,45657,SUP001,230,blocked,Harness routed for safety review.
+OR00000752,2022-08-13,45657,SUP001,230,requires_review,Harness routed for safety review.
+OR00000753,2022-09-04,45657,SUP001,230,executed,Harness approved.
+OR00000754,2022-09-28,45657,SUP001,230,blocked,Harness routed for safety review.
+OR00000755,2022-10-20,45657,SUP001,230,requires_review,Harness routed for safety review.
+OR00000756,2022-11-14,45657,SUP001,230,blocked,Harness routed for safety review.
+OR00000757,2022-12-08,45657,SUP001,230,requires_review,Harness routed for safety review.
+OR00000758,2022-12-29,45657,SUP001,230,blocked,Harness routed for safety review.
+OR00000759,2023-01-30,45657,SUP001,230,executed,Harness approved.
+OR00000760,2023-03-01,45657,SUP001,230,requires_review,Harness routed for safety review.
+OR00000761,2023-03-28,45657,SUP001,230,blocked,Harness routed for safety review.
+OR00000762,2023-04-23,45657,SUP001,230,blocked,Harness routed for safety review.
+OR00000763,2023-05-19,45657,SUP001,230,executed,Harness approved.
+OR00000764,2023-06-13,45657,SUP001,230,executed,Harness approved.
+OR00000765,2023-07-05,45657,SUP001,230,executed,Harness approved.
+OR00000766,2023-07-27,45657,SUP001,230,executed,Harness approved.
+OR00000767,2023-08-17,45657,SUP001,230,executed,Harness approved.
+OR00000768,2023-09-06,45657,SUP001,230,blocked,Harness routed for safety review.
+OR00000769,2023-10-01,45657,SUP001,230,executed,Harness approved.
+OR00000770,2023-10-25,45657,SUP001,230,executed,Harness approved.
+OR00000771,2023-11-17,45657,SUP001,230,blocked,Harness routed for safety review.
+OR00000772,2023-12-12,45657,SUP001,230,executed,Harness approved.
+OR00000773,2024-01-05,45657,SUP001,230,executed,Harness approved.
+OR00000774,2024-02-08,45657,SUP001,230,executed,Harness approved.
+OR00000775,2024-03-11,45657,SUP001,230,executed,Harness approved.
+OR00000776,2024-04-12,45657,SUP001,230,blocked,Harness routed for safety review.
+OR00000777,2024-05-11,45657,SUP001,230,executed,Harness approved.
+OR00000778,2024-06-09,45657,SUP001,230,executed,Harness approved.
+OR00000779,2024-07-05,45657,SUP001,230,requires_review,Harness routed for safety review.
+OR00000780,2024-07-25,45657,SUP001,230,executed,Harness approved.
+OR00000781,2024-08-12,45657,SUP001,230,executed,Harness approved.
+OR00000782,2024-09-01,45657,SUP001,230,executed,Harness approved.
+OR00000783,2024-09-24,45657,SUP001,230,executed,Harness approved.
+OR00000784,2024-10-18,45657,SUP001,230,requires_review,Harness routed for safety review.
+OR00000785,2024-11-12,45657,SUP001,230,requires_review,Harness routed for safety review.
+OR00000786,2024-12-06,45657,SUP001,230,executed,Harness approved.
+OR00000787,2024-12-28,45657,SUP001,230,blocked,Harness routed for safety review.
+OR00000788,2025-01-27,45657,SUP001,230,requires_review,Harness routed for safety review.
+OR00000789,2025-02-28,45657,SUP001,230,blocked,Harness routed for safety review.
+OR00000790,2025-03-29,45657,SUP001,230,requires_review,Harness routed for safety review.
+OR00000791,2025-04-24,45657,SUP001,230,executed,Harness approved.
+OR00000792,2025-05-18,45657,SUP001,230,executed,Harness approved.
+OR00000793,2025-06-08,45657,SUP001,230,requires_review,Harness routed for safety review.
+OR00000794,2025-06-28,45657,SUP001,230,requires_review,Harness routed for safety review.
+OR00000795,2025-07-20,45657,SUP001,230,blocked,Harness routed for safety review.
+OR00000796,2025-08-11,45657,SUP001,230,requires_review,Harness routed for safety review.
+OR00000797,2025-09-02,45657,SUP001,230,requires_review,Harness routed for safety review.
+OR00000798,2025-09-28,45657,SUP001,230,executed,Harness approved.
+OR00000799,2025-10-27,45657,SUP001,230,executed,Harness approved.
+OR00000800,2025-11-25,45657,SUP001,230,blocked,Harness routed for safety review.
+OR00000801,2025-12-21,45657,SUP001,230,executed,Harness approved.
+OR00000802,2026-01-26,45657,SUP001,230,executed,Harness approved.
+OR00000803,2026-02-28,45657,SUP001,230,requires_review,Harness routed for safety review.
+OR00000804,2026-03-31,45657,SUP001,230,blocked,Harness routed for safety review.
+OR00000805,2026-04-30,45657,SUP001,230,requires_review,Harness routed for safety review.
+OR00000806,2021-02-01,45678,SUP003,140,executed,Harness approved.
+OR00000807,2021-02-11,45678,SUP003,140,executed,Harness approved.
+OR00000808,2021-02-20,45678,SUP003,140,blocked,Harness routed for safety review.
+OR00000809,2021-03-01,45678,SUP003,140,requires_review,Harness routed for safety review.
+OR00000810,2021-03-13,45678,SUP003,140,executed,Harness approved.
+OR00000811,2021-03-27,45678,SUP003,140,executed,Harness approved.
+OR00000812,2021-04-07,45678,SUP003,140,blocked,Harness routed for safety review.
+OR00000813,2021-04-18,45678,SUP003,140,executed,Harness approved.
+OR00000814,2021-04-27,45678,SUP003,140,blocked,Harness routed for safety review.
+OR00000815,2021-05-05,45678,SUP003,140,executed,Harness approved.
+OR00000816,2021-05-14,45678,SUP003,140,executed,Harness approved.
+OR00000817,2021-05-26,45678,SUP003,140,requires_review,Harness routed for safety review.
+OR00000818,2021-06-10,45678,SUP003,140,executed,Harness approved.
+OR00000819,2021-06-26,45678,SUP003,140,requires_review,Harness routed for safety review.
+OR00000820,2021-07-13,45678,SUP003,140,executed,Harness approved.
+OR00000821,2021-07-29,45678,SUP003,140,executed,Harness approved.
+OR00000822,2021-08-14,45678,SUP003,140,executed,Harness approved.
+OR00000823,2021-08-30,45678,SUP003,140,executed,Harness approved.
+OR00000824,2021-09-11,45678,SUP003,140,blocked,Harness routed for safety review.
+OR00000825,2021-09-30,45678,SUP003,140,executed,Harness approved.
+OR00000826,2021-10-16,45678,SUP003,140,requires_review,Harness routed for safety review.
+OR00000827,2021-11-08,45678,SUP003,140,requires_review,Harness routed for safety review.
+OR00000828,2021-11-30,45678,SUP003,140,executed,Harness approved.
+OR00000829,2021-12-20,45678,SUP003,140,executed,Harness approved.
+OR00000830,2022-01-09,45678,SUP003,140,executed,Harness approved.
+OR00000831,2022-01-29,45678,SUP003,140,requires_review,Harness routed for safety review.
+OR00000832,2022-02-18,45678,SUP003,140,executed,Harness approved.
+OR00000833,2022-03-07,45678,SUP003,140,executed,Harness approved.
+OR00000834,2022-03-27,45678,SUP003,140,requires_review,Harness routed for safety review.
+OR00000835,2022-04-13,45678,SUP003,140,blocked,Harness routed for safety review.
+OR00000836,2022-05-01,45678,SUP003,140,executed,Harness approved.
+OR00000837,2022-05-17,45678,SUP003,140,blocked,Harness routed for safety review.
+OR00000838,2022-06-06,45678,SUP003,140,executed,Harness approved.
+OR00000839,2022-07-01,45678,SUP003,140,executed,Harness approved.
+OR00000840,2022-07-22,45678,SUP003,140,requires_review,Harness routed for safety review.
+OR00000841,2022-08-14,45678,SUP003,140,executed,Harness approved.
+OR00000842,2022-09-03,45678,SUP003,140,executed,Harness approved.
+OR00000843,2022-09-26,45678,SUP003,140,executed,Harness approved.
+OR00000844,2022-10-15,45678,SUP003,140,executed,Harness approved.
+OR00000845,2022-11-03,45678,SUP003,140,blocked,Harness routed for safety review.
+OR00000846,2022-11-21,45678,SUP003,140,requires_review,Harness routed for safety review.
+OR00000847,2022-12-14,45678,SUP003,140,executed,Harness approved.
+OR00000848,2023-01-04,45678,SUP003,140,executed,Harness approved.
+OR00000849,2023-01-26,45678,SUP003,140,requires_review,Harness routed for safety review.
+OR00000850,2024-02-15,45678,SUP003,140,requires_review,Harness routed for safety review.
+OR00000851,2024-03-10,45678,SUP003,140,executed,Harness approved.
+OR00000852,2024-03-30,45678,SUP003,140,executed,Harness approved.
+OR00000853,2024-04-22,45678,SUP003,140,requires_review,Harness routed for safety review.
+OR00000854,2024-05-21,45678,SUP003,140,blocked,Harness routed for safety review.
+OR00000855,2024-06-13,45678,SUP003,140,requires_review,Harness routed for safety review.
+OR00000856,2024-07-05,45678,SUP003,140,executed,Harness approved.
+OR00000857,2024-07-30,45678,SUP003,140,requires_review,Harness routed for safety review.
+OR00000858,2024-10-28,45678,SUP003,140,blocked,Harness routed for safety review.
+OR00000859,2024-11-15,45678,SUP003,140,executed,Harness approved.
+OR00000860,2024-12-07,45678,SUP003,140,requires_review,Harness routed for safety review.
+OR00000861,2025-01-02,45678,SUP003,140,executed,Harness approved.
+OR00000862,2025-01-31,45678,SUP003,140,executed,Harness approved.
+OR00000863,2025-02-27,45678,SUP003,140,executed,Harness approved.
+OR00000864,2025-03-25,45678,SUP003,140,executed,Harness approved.
+OR00000865,2025-04-22,45678,SUP003,140,blocked,Harness routed for safety review.
+OR00000866,2025-05-16,45678,SUP003,140,executed,Harness approved.
+OR00000867,2025-06-09,45678,SUP003,140,executed,Harness approved.
+OR00000868,2025-07-01,45678,SUP003,140,executed,Harness approved.
+OR00000869,2025-07-23,45678,SUP003,140,blocked,Harness routed for safety review.
+OR00000870,2025-08-13,45678,SUP003,140,executed,Harness approved.
+OR00000871,2025-09-06,45678,SUP003,140,executed,Harness approved.
+OR00000872,2025-10-02,45678,SUP003,140,blocked,Harness routed for safety review.
+OR00000873,2025-10-28,45678,SUP003,140,executed,Harness approved.
+OR00000874,2025-11-27,45678,SUP003,140,executed,Harness approved.
+OR00000875,2025-12-29,45678,SUP003,140,blocked,Harness routed for safety review.
+OR00000876,2026-01-26,45678,SUP003,140,executed,Harness approved.
+OR00000877,2026-02-21,45678,SUP003,140,requires_review,Harness routed for safety review.
+OR00000878,2026-03-19,45678,SUP003,140,requires_review,Harness routed for safety review.
+OR00000879,2026-04-10,45678,SUP003,140,requires_review,Harness routed for safety review.
+OR00000880,2026-05-15,45678,SUP003,140,executed,Harness approved.
+OR00000881,2022-02-26,46019,SUP003,80,executed,Harness approved.
+OR00000882,2022-03-08,46019,SUP003,80,executed,Harness approved.
+OR00000883,2022-03-17,46019,SUP003,80,blocked,Harness routed for safety review.
+OR00000884,2022-03-26,46019,SUP003,80,requires_review,Harness routed for safety review.
+OR00000885,2022-04-06,46019,SUP003,80,executed,Harness approved.
+OR00000886,2022-04-18,46019,SUP003,80,executed,Harness approved.
+OR00000887,2022-04-29,46019,SUP003,80,requires_review,Harness routed for safety review.
+OR00000888,2022-05-06,46019,SUP003,80,executed,Harness approved.
+OR00000889,2022-05-13,46019,SUP003,80,blocked,Harness routed for safety review.
+OR00000890,2022-05-22,46019,SUP003,80,executed,Harness approved.
+OR00000891,2022-06-03,46019,SUP003,80,blocked,Harness routed for safety review.
+OR00000892,2022-06-16,46019,SUP003,80,executed,Harness approved.
+OR00000893,2022-06-29,46019,SUP003,80,executed,Harness approved.
+OR00000894,2022-07-13,46019,SUP003,80,executed,Harness approved.
+OR00000895,2022-08-12,46019,SUP003,80,requires_review,Harness routed for safety review.
+OR00000896,2022-09-03,46019,SUP003,80,executed,Harness approved.
+OR00000897,2022-09-22,46019,SUP003,80,executed,Harness approved.
+OR00000898,2022-10-14,46019,SUP003,80,blocked,Harness routed for safety review.
+OR00000899,2022-11-04,46019,SUP003,80,blocked,Harness routed for safety review.
+OR00000900,2022-11-20,46019,SUP003,80,executed,Harness approved.
+OR00000901,2022-12-14,46019,SUP003,80,executed,Harness approved.
+OR00000902,2023-01-06,46019,SUP003,80,executed,Harness approved.
+OR00000903,2023-04-22,46019,SUP003,80,executed,Harness approved.
+OR00000904,2023-09-03,46019,SUP003,80,executed,Harness approved.
+OR00000905,2023-09-15,46019,SUP003,80,requires_review,Harness routed for safety review.
+OR00000906,2023-10-07,46019,SUP003,80,executed,Harness approved.
+OR00000907,2023-11-01,46019,SUP003,80,executed,Harness approved.
+OR00000908,2023-11-14,46019,SUP003,80,executed,Harness approved.
+OR00000909,2023-12-06,46019,SUP003,80,requires_review,Harness routed for safety review.
+OR00000910,2023-12-31,46019,SUP003,80,executed,Harness approved.
+OR00000911,2024-01-25,46019,SUP003,80,blocked,Harness routed for safety review.
+OR00000912,2024-02-10,46019,SUP003,80,blocked,Harness routed for safety review.
+OR00000913,2024-03-02,46019,SUP003,80,executed,Harness approved.
+OR00000914,2024-03-21,46019,SUP003,80,executed,Harness approved.
+OR00000915,2024-04-06,46019,SUP003,80,requires_review,Harness routed for safety review.
+OR00000916,2024-04-17,46019,SUP003,80,executed,Harness approved.
+OR00000917,2024-05-02,46019,SUP003,80,executed,Harness approved.
+OR00000918,2024-05-16,46019,SUP003,80,blocked,Harness routed for safety review.
+OR00000919,2024-05-31,46019,SUP003,80,blocked,Harness routed for safety review.
+OR00000920,2024-06-11,46019,SUP003,80,requires_review,Harness routed for safety review.
+OR00000921,2024-06-25,46019,SUP003,80,executed,Harness approved.
+OR00000922,2024-07-08,46019,SUP003,80,executed,Harness approved.
+OR00000923,2024-08-02,46019,SUP003,80,executed,Harness approved.
+OR00000924,2024-08-17,46019,SUP003,80,executed,Harness approved.
+OR00000925,2024-09-01,46019,SUP003,80,executed,Harness approved.
+OR00000926,2024-09-15,46019,SUP003,80,requires_review,Harness routed for safety review.
+OR00000927,2024-10-03,46019,SUP003,80,executed,Harness approved.
+OR00000928,2024-10-23,46019,SUP003,80,blocked,Harness routed for safety review.
+OR00000929,2024-11-10,46019,SUP003,80,executed,Harness approved.
+OR00000930,2024-12-04,46019,SUP003,80,executed,Harness approved.
+OR00000931,2024-12-19,46019,SUP003,80,blocked,Harness routed for safety review.
+OR00000932,2025-01-09,46019,SUP003,80,executed,Harness approved.
+OR00000933,2025-02-08,46019,SUP003,80,requires_review,Harness routed for safety review.
+OR00000934,2025-03-11,46019,SUP003,80,executed,Harness approved.
+OR00000935,2025-04-05,46019,SUP003,80,executed,Harness approved.
+OR00000936,2025-04-26,46019,SUP003,80,requires_review,Harness routed for safety review.
+OR00000937,2025-06-12,46019,SUP003,80,executed,Harness approved.
+OR00000938,2025-07-21,46019,SUP003,80,blocked,Harness routed for safety review.
+OR00000939,2025-09-03,46019,SUP003,80,requires_review,Harness routed for safety review.
+OR00000940,2025-10-12,46019,SUP003,80,executed,Harness approved.
+OR00000941,2025-11-13,46019,SUP003,80,executed,Harness approved.
+OR00000942,2025-12-17,46019,SUP003,80,executed,Harness approved.
+OR00000943,2026-01-17,46019,SUP003,80,blocked,Harness routed for safety review.
+OR00000944,2026-02-11,46019,SUP003,80,executed,Harness approved.
+OR00000945,2026-03-09,46019,SUP003,80,requires_review,Harness routed for safety review.
+OR00000946,2026-04-07,46019,SUP003,80,blocked,Harness routed for safety review.
+OR00000947,2026-05-06,46019,SUP003,80,requires_review,Harness routed for safety review.
+OR00000948,2021-02-25,55845,SUP001,100,executed,Harness approved.
+OR00000949,2021-04-01,55845,SUP001,100,executed,Harness approved.
+OR00000950,2021-04-23,55845,SUP001,100,executed,Harness approved.
+OR00000951,2021-05-15,55845,SUP001,100,blocked,Harness routed for safety review.
+OR00000952,2021-06-01,55845,SUP001,100,blocked,Harness routed for safety review.
+OR00000953,2021-06-16,55845,SUP001,100,executed,Harness approved.
+OR00000954,2021-06-28,55845,SUP001,100,executed,Harness approved.
+OR00000955,2021-07-08,55845,SUP001,100,executed,Harness approved.
+OR00000956,2021-07-21,55845,SUP001,100,blocked,Harness routed for safety review.
+OR00000957,2021-08-19,55845,SUP001,100,executed,Harness approved.
+OR00000958,2021-11-22,55845,SUP001,100,executed,Harness approved.
+OR00000959,2021-12-20,55845,SUP001,100,blocked,Harness routed for safety review.
+OR00000960,2022-01-09,55845,SUP001,100,requires_review,Harness routed for safety review.
+OR00000961,2022-01-26,55845,SUP001,100,requires_review,Harness routed for safety review.
+OR00000962,2022-02-13,55845,SUP001,100,executed,Harness approved.
+OR00000963,2022-02-26,55845,SUP001,100,executed,Harness approved.
+OR00000964,2022-03-09,55845,SUP001,100,executed,Harness approved.
+OR00000965,2022-03-29,55845,SUP001,100,blocked,Harness routed for safety review.
+OR00000966,2022-04-15,55845,SUP001,100,executed,Harness approved.
+OR00000967,2022-05-08,55845,SUP001,100,requires_review,Harness routed for safety review.
+OR00000968,2022-05-21,55845,SUP001,100,executed,Harness approved.
+OR00000969,2022-06-07,55845,SUP001,100,requires_review,Harness routed for safety review.
+OR00000970,2022-06-21,55845,SUP001,100,executed,Harness approved.
+OR00000971,2022-07-03,55845,SUP001,100,executed,Harness approved.
+OR00000972,2022-07-12,55845,SUP001,100,executed,Harness approved.
+OR00000973,2022-07-25,55845,SUP001,100,requires_review,Harness routed for safety review.
+OR00000974,2022-08-07,55845,SUP001,100,requires_review,Harness routed for safety review.
+OR00000975,2022-08-14,55845,SUP001,100,executed,Harness approved.
+OR00000976,2022-08-25,55845,SUP001,100,executed,Harness approved.
+OR00000977,2022-09-07,55845,SUP001,100,executed,Harness approved.
+OR00000978,2022-09-30,55845,SUP001,100,executed,Harness approved.
+OR00000979,2022-10-18,55845,SUP001,100,executed,Harness approved.
+OR00000980,2022-12-01,55845,SUP001,100,requires_review,Harness routed for safety review.
+OR00000981,2023-02-28,55845,SUP001,100,requires_review,Harness routed for safety review.
+OR00000982,2023-03-29,55845,SUP001,100,executed,Harness approved.
+OR00000983,2023-04-20,55845,SUP001,100,requires_review,Harness routed for safety review.
+OR00000984,2023-05-04,55845,SUP001,100,executed,Harness approved.
+OR00000985,2023-05-21,55845,SUP001,100,executed,Harness approved.
+OR00000986,2023-06-10,55845,SUP001,100,executed,Harness approved.
+OR00000987,2023-06-28,55845,SUP001,100,blocked,Harness routed for safety review.
+OR00000988,2023-07-10,55845,SUP001,100,executed,Harness approved.
+OR00000989,2023-07-19,55845,SUP001,100,executed,Harness approved.
+OR00000990,2023-07-31,55845,SUP001,100,requires_review,Harness routed for safety review.
+OR00000991,2023-08-10,55845,SUP001,100,executed,Harness approved.
+OR00000992,2023-08-19,55845,SUP001,100,requires_review,Harness routed for safety review.
+OR00000993,2023-08-31,55845,SUP001,100,executed,Harness approved.
+OR00000994,2023-09-24,55845,SUP001,100,executed,Harness approved.
+OR00000995,2023-11-17,55845,SUP001,100,blocked,Harness routed for safety review.
+OR00000996,2023-12-29,55845,SUP001,100,executed,Harness approved.
+OR00000997,2024-01-19,55845,SUP001,100,blocked,Harness routed for safety review.
+OR00000998,2024-02-10,55845,SUP001,100,executed,Harness approved.
+OR00000999,2024-03-15,55845,SUP001,100,requires_review,Harness routed for safety review.
+OR00001000,2024-03-30,55845,SUP001,100,blocked,Harness routed for safety review.
+OR00001001,2024-04-19,55845,SUP001,100,blocked,Harness routed for safety review.
+OR00001002,2024-05-01,55845,SUP001,100,requires_review,Harness routed for safety review.
+OR00001003,2024-05-17,55845,SUP001,100,executed,Harness approved.
+OR00001004,2024-06-02,55845,SUP001,100,executed,Harness approved.
+OR00001005,2024-06-22,55845,SUP001,100,executed,Harness approved.
+OR00001006,2024-07-11,55845,SUP001,100,executed,Harness approved.
+OR00001007,2024-07-24,55845,SUP001,100,blocked,Harness routed for safety review.
+OR00001008,2024-08-02,55845,SUP001,100,executed,Harness approved.
+OR00001009,2024-08-14,55845,SUP001,100,executed,Harness approved.
+OR00001010,2024-08-29,55845,SUP001,100,executed,Harness approved.
+OR00001011,2024-09-16,55845,SUP001,100,executed,Harness approved.
+OR00001012,2024-12-16,55845,SUP001,100,requires_review,Harness routed for safety review.
+OR00001013,2025-03-06,55845,SUP001,100,executed,Harness approved.
+OR00001014,2025-06-21,55845,SUP001,100,requires_review,Harness routed for safety review.
+OR00001015,2025-08-01,55845,SUP001,100,executed,Harness approved.
+OR00001016,2026-01-21,55845,SUP001,100,executed,Harness approved.
+OR00001017,2021-03-05,65044,SUP002,90,requires_review,Harness routed for safety review.
+OR00001018,2021-04-13,65044,SUP002,90,executed,Harness approved.
+OR00001019,2021-05-20,65044,SUP002,90,executed,Harness approved.
+OR00001020,2021-07-08,65044,SUP002,90,executed,Harness approved.
+OR00001021,2021-07-30,65044,SUP002,90,executed,Harness approved.
+OR00001022,2021-08-31,65044,SUP002,90,blocked,Harness routed for safety review.
+OR00001023,2021-10-02,65044,SUP002,90,executed,Harness approved.
+OR00001024,2021-11-11,65044,SUP002,90,blocked,Harness routed for safety review.
+OR00001025,2021-12-18,65044,SUP002,90,requires_review,Harness routed for safety review.
+OR00001026,2022-02-10,65044,SUP002,90,executed,Harness approved.
+OR00001027,2022-04-13,65044,SUP002,90,executed,Harness approved.
+OR00001028,2022-04-22,65044,SUP002,90,blocked,Harness routed for safety review.
+OR00001029,2022-05-08,65044,SUP002,90,executed,Harness approved.
+OR00001030,2022-05-19,65044,SUP002,90,executed,Harness approved.
+OR00001031,2022-06-12,65044,SUP002,90,executed,Harness approved.
+OR00001032,2022-06-28,65044,SUP002,90,executed,Harness approved.
+OR00001033,2022-07-24,65044,SUP002,90,requires_review,Harness routed for safety review.
+OR00001034,2022-09-05,65044,SUP002,90,executed,Harness approved.
+OR00001035,2022-10-12,65044,SUP002,90,executed,Harness approved.
+OR00001036,2022-12-14,65044,SUP002,90,executed,Harness approved.
+OR00001037,2023-02-23,65044,SUP002,90,executed,Harness approved.
+OR00001038,2023-03-28,65044,SUP002,90,executed,Harness approved.
+OR00001039,2023-04-13,65044,SUP002,90,executed,Harness approved.
+OR00001040,2023-05-03,65044,SUP002,90,requires_review,Harness routed for safety review.
+OR00001041,2023-05-23,65044,SUP002,90,executed,Harness approved.
+OR00001042,2023-06-14,65044,SUP002,90,executed,Harness approved.
+OR00001043,2023-07-04,65044,SUP002,90,executed,Harness approved.
+OR00001044,2023-07-30,65044,SUP002,90,requires_review,Harness routed for safety review.
+OR00001045,2023-08-20,65044,SUP002,90,requires_review,Harness routed for safety review.
+OR00001046,2023-09-24,65044,SUP002,90,requires_review,Harness routed for safety review.
+OR00001047,2023-10-12,65044,SUP002,90,executed,Harness approved.
+OR00001048,2023-11-03,65044,SUP002,90,executed,Harness approved.
+OR00001049,2023-11-21,65044,SUP002,90,executed,Harness approved.
+OR00001050,2023-12-04,65044,SUP002,90,executed,Harness approved.
+OR00001051,2023-12-19,65044,SUP002,90,requires_review,Harness routed for safety review.
+OR00001052,2024-01-22,65044,SUP002,90,executed,Harness approved.
+OR00001053,2024-03-23,65044,SUP002,90,requires_review,Harness routed for safety review.
+OR00001054,2024-04-10,65044,SUP002,90,executed,Harness approved.
+OR00001055,2024-04-20,65044,SUP002,90,executed,Harness approved.
+OR00001056,2024-05-09,65044,SUP002,90,requires_review,Harness routed for safety review.
+OR00001057,2024-07-05,65044,SUP002,90,requires_review,Harness routed for safety review.
+OR00001058,2024-08-06,65044,SUP002,90,blocked,Harness routed for safety review.
+OR00001059,2024-09-11,65044,SUP002,90,executed,Harness approved.
+OR00001060,2024-09-26,65044,SUP002,90,executed,Harness approved.
+OR00001061,2024-10-10,65044,SUP002,90,executed,Harness approved.
+OR00001062,2024-10-21,65044,SUP002,90,requires_review,Harness routed for safety review.
+OR00001063,2024-11-01,65044,SUP002,90,executed,Harness approved.
+OR00001064,2024-11-14,65044,SUP002,90,requires_review,Harness routed for safety review.
+OR00001065,2024-11-25,65044,SUP002,90,executed,Harness approved.
+OR00001066,2025-01-19,65044,SUP002,90,executed,Harness approved.
+OR00001067,2025-01-30,65044,SUP002,90,executed,Harness approved.
+OR00001068,2025-02-08,65044,SUP002,90,executed,Harness approved.
+OR00001069,2025-03-12,65044,SUP002,90,executed,Harness approved.
+OR00001070,2025-03-26,65044,SUP002,90,blocked,Harness routed for safety review.
+OR00001071,2025-04-07,65044,SUP002,90,requires_review,Harness routed for safety review.
+OR00001072,2025-04-20,65044,SUP002,90,executed,Harness approved.
+OR00001073,2025-05-02,65044,SUP002,90,executed,Harness approved.
+OR00001074,2025-05-14,65044,SUP002,90,executed,Harness approved.
+OR00001075,2025-05-27,65044,SUP002,90,executed,Harness approved.
+OR00001076,2025-06-13,65044,SUP002,90,requires_review,Harness routed for safety review.
+OR00001077,2025-08-15,65044,SUP002,90,executed,Harness approved.
+OR00001078,2025-09-17,65044,SUP002,90,executed,Harness approved.
+OR00001079,2025-09-30,65044,SUP002,90,requires_review,Harness routed for safety review.
+OR00001080,2025-10-16,65044,SUP002,90,executed,Harness approved.
+OR00001081,2025-11-02,65044,SUP002,90,blocked,Harness routed for safety review.
+OR00001082,2025-11-20,65044,SUP002,90,executed,Harness approved.
+OR00001083,2025-12-09,65044,SUP002,90,executed,Harness approved.
+OR00001084,2025-12-31,65044,SUP002,90,executed,Harness approved.
+OR00001085,2026-01-18,65044,SUP002,90,blocked,Harness routed for safety review.
+OR00001086,2026-02-07,65044,SUP002,90,executed,Harness approved.
+OR00001087,2026-03-22,65044,SUP002,90,executed,Harness approved.
+OR00001088,2026-04-15,65044,SUP002,90,executed,Harness approved.
+OR00001089,2026-05-07,65044,SUP002,90,executed,Harness approved.
+OR00001090,2021-02-06,70133,SUP002,144,requires_review,Harness routed for safety review.
+OR00001091,2021-02-26,70133,SUP002,144,blocked,Harness routed for safety review.
+OR00001092,2021-03-15,70133,SUP002,144,executed,Harness approved.
+OR00001093,2021-04-03,70133,SUP002,144,executed,Harness approved.
+OR00001094,2021-04-20,70133,SUP002,144,executed,Harness approved.
+OR00001095,2021-05-06,70133,SUP002,144,blocked,Harness routed for safety review.
+OR00001096,2021-05-24,70133,SUP002,144,executed,Harness approved.
+OR00001097,2021-06-12,70133,SUP002,144,executed,Harness approved.
+OR00001098,2021-07-03,70133,SUP002,144,executed,Harness approved.
+OR00001099,2021-07-21,70133,SUP002,144,executed,Harness approved.
+OR00001100,2021-08-10,70133,SUP002,144,blocked,Harness routed for safety review.
+OR00001101,2021-08-27,70133,SUP002,144,blocked,Harness routed for safety review.
+OR00001102,2021-09-15,70133,SUP002,144,executed,Harness approved.
+OR00001103,2021-10-05,70133,SUP002,144,executed,Harness approved.
+OR00001104,2021-10-23,70133,SUP002,144,executed,Harness approved.
+OR00001105,2021-11-11,70133,SUP002,144,executed,Harness approved.
+OR00001106,2021-11-29,70133,SUP002,144,blocked,Harness routed for safety review.
+OR00001107,2021-12-18,70133,SUP002,144,executed,Harness approved.
+OR00001108,2022-01-06,70133,SUP002,144,executed,Harness approved.
+OR00001109,2022-02-02,70133,SUP002,144,executed,Harness approved.
+OR00001110,2022-02-23,70133,SUP002,144,executed,Harness approved.
+OR00001111,2022-03-18,70133,SUP002,144,requires_review,Harness routed for safety review.
+OR00001112,2022-04-21,70133,SUP002,144,executed,Harness approved.
+OR00001113,2022-05-19,70133,SUP002,144,blocked,Harness routed for safety review.
+OR00001114,2022-06-10,70133,SUP002,144,executed,Harness approved.
+OR00001115,2022-06-28,70133,SUP002,144,executed,Harness approved.
+OR00001116,2022-07-11,70133,SUP002,144,executed,Harness approved.
+OR00001117,2022-07-27,70133,SUP002,144,executed,Harness approved.
+OR00001118,2022-08-12,70133,SUP002,144,executed,Harness approved.
+OR00001119,2022-09-06,70133,SUP002,144,executed,Harness approved.
+OR00001120,2022-10-04,70133,SUP002,144,executed,Harness approved.
+OR00001121,2022-11-04,70133,SUP002,144,executed,Harness approved.
+OR00001122,2022-12-03,70133,SUP002,144,requires_review,Harness routed for safety review.
+OR00001123,2023-01-06,70133,SUP002,144,executed,Harness approved.
+OR00001124,2023-02-17,70133,SUP002,144,executed,Harness approved.
+OR00001125,2023-03-25,70133,SUP002,144,blocked,Harness routed for safety review.
+OR00001126,2023-04-24,70133,SUP002,144,executed,Harness approved.
+OR00001127,2023-05-24,70133,SUP002,144,requires_review,Harness routed for safety review.
+OR00001128,2023-06-22,70133,SUP002,144,executed,Harness approved.
+OR00001129,2023-07-16,70133,SUP002,144,executed,Harness approved.
+OR00001130,2023-08-12,70133,SUP002,144,executed,Harness approved.
+OR00001131,2023-09-08,70133,SUP002,144,executed,Harness approved.
+OR00001132,2023-10-09,70133,SUP002,144,executed,Harness approved.
+OR00001133,2023-11-02,70133,SUP002,144,executed,Harness approved.
+OR00001134,2023-11-29,70133,SUP002,144,executed,Harness approved.
+OR00001135,2023-12-22,70133,SUP002,144,executed,Harness approved.
+OR00001136,2024-01-26,70133,SUP002,144,executed,Harness approved.
+OR00001137,2024-03-05,70133,SUP002,144,requires_review,Harness routed for safety review.
+OR00001138,2024-04-06,70133,SUP002,144,executed,Harness approved.
+OR00001139,2024-05-02,70133,SUP002,144,blocked,Harness routed for safety review.
+OR00001140,2024-05-27,70133,SUP002,144,blocked,Harness routed for safety review.
+OR00001141,2024-06-20,70133,SUP002,144,blocked,Harness routed for safety review.
+OR00001142,2024-07-09,70133,SUP002,144,executed,Harness approved.
+OR00001143,2024-08-01,70133,SUP002,144,executed,Harness approved.
+OR00001144,2024-08-22,70133,SUP002,144,requires_review,Harness routed for safety review.
+OR00001145,2024-09-15,70133,SUP002,144,executed,Harness approved.
+OR00001146,2024-10-12,70133,SUP002,144,executed,Harness approved.
+OR00001147,2024-11-14,70133,SUP002,144,requires_review,Harness routed for safety review.
+OR00001148,2024-12-07,70133,SUP002,144,executed,Harness approved.
+OR00001149,2024-12-28,70133,SUP002,144,executed,Harness approved.
+OR00001150,2025-01-29,70133,SUP002,144,executed,Harness approved.
+OR00001151,2025-03-02,70133,SUP002,144,executed,Harness approved.
+OR00001152,2025-03-29,70133,SUP002,144,executed,Harness approved.
+OR00001153,2025-04-26,70133,SUP002,144,executed,Harness approved.
+OR00001154,2025-05-29,70133,SUP002,144,requires_review,Harness routed for safety review.
+OR00001155,2025-06-27,70133,SUP002,144,requires_review,Harness routed for safety review.
+OR00001156,2025-07-22,70133,SUP002,144,blocked,Harness routed for safety review.
+OR00001157,2025-08-16,70133,SUP002,144,requires_review,Harness routed for safety review.
+OR00001158,2025-09-10,70133,SUP002,144,blocked,Harness routed for safety review.
+OR00001159,2025-10-09,70133,SUP002,144,executed,Harness approved.
+OR00001160,2025-11-07,70133,SUP002,144,executed,Harness approved.
+OR00001161,2025-12-08,70133,SUP002,144,executed,Harness approved.
+OR00001162,2026-01-05,70133,SUP002,144,executed,Harness approved.
+OR00001163,2026-02-21,70133,SUP002,144,executed,Harness approved.
+OR00001164,2026-04-01,70133,SUP002,144,executed,Harness approved.
+OR00001165,2026-05-08,70133,SUP002,144,executed,Harness approved.
+OR00001166,2021-10-01,90130,SUP002,78,executed,Harness approved.
+OR00001167,2021-10-18,90130,SUP002,78,requires_review,Harness routed for safety review.
+OR00001168,2021-11-02,90130,SUP002,78,executed,Harness approved.
+OR00001169,2021-11-13,90130,SUP002,78,blocked,Harness routed for safety review.
+OR00001170,2021-11-26,90130,SUP002,78,executed,Harness approved.
+OR00001171,2021-12-15,90130,SUP002,78,executed,Harness approved.
+OR00001172,2021-12-26,90130,SUP002,78,executed,Harness approved.
+OR00001173,2022-01-09,90130,SUP002,78,blocked,Harness routed for safety review.
+OR00001174,2022-01-27,90130,SUP002,78,executed,Harness approved.
+OR00001175,2022-02-12,90130,SUP002,78,blocked,Harness routed for safety review.
+OR00001176,2022-03-06,90130,SUP002,78,executed,Harness approved.
+OR00001177,2022-04-03,90130,SUP002,78,executed,Harness approved.
+OR00001178,2022-04-25,90130,SUP002,78,executed,Harness approved.
+OR00001179,2022-05-16,90130,SUP002,78,blocked,Harness routed for safety review.
+OR00001180,2022-06-10,90130,SUP002,78,blocked,Harness routed for safety review.
+OR00001181,2022-07-02,90130,SUP002,78,executed,Harness approved.
+OR00001182,2022-07-19,90130,SUP002,78,executed,Harness approved.
+OR00001183,2022-08-05,90130,SUP002,78,executed,Harness approved.
+OR00001184,2022-08-19,90130,SUP002,78,blocked,Harness routed for safety review.
+OR00001185,2022-09-03,90130,SUP002,78,blocked,Harness routed for safety review.
+OR00001186,2022-09-21,90130,SUP002,78,executed,Harness approved.
+OR00001187,2022-10-09,90130,SUP002,78,executed,Harness approved.
+OR00001188,2022-10-30,90130,SUP002,78,blocked,Harness routed for safety review.
+OR00001189,2022-11-13,90130,SUP002,78,executed,Harness approved.
+OR00001190,2022-11-24,90130,SUP002,78,executed,Harness approved.
+OR00001191,2022-12-12,90130,SUP002,78,blocked,Harness routed for safety review.
+OR00001192,2022-12-24,90130,SUP002,78,executed,Harness approved.
+OR00001193,2023-01-12,90130,SUP002,78,requires_review,Harness routed for safety review.
+OR00001194,2023-02-07,90130,SUP002,78,requires_review,Harness routed for safety review.
+OR00001195,2023-02-23,90130,SUP002,78,executed,Harness approved.
+OR00001196,2023-03-15,90130,SUP002,78,requires_review,Harness routed for safety review.
+OR00001197,2023-03-31,90130,SUP002,78,executed,Harness approved.
+OR00001198,2023-04-20,90130,SUP002,78,executed,Harness approved.
+OR00001199,2023-05-14,90130,SUP002,78,requires_review,Harness routed for safety review.
+OR00001200,2023-06-06,90130,SUP002,78,executed,Harness approved.
+OR00001201,2023-06-26,90130,SUP002,78,executed,Harness approved.
+OR00001202,2023-07-16,90130,SUP002,78,executed,Harness approved.
+OR00001203,2023-08-08,90130,SUP002,78,executed,Harness approved.
+OR00001204,2023-08-23,90130,SUP002,78,executed,Harness approved.
+OR00001205,2023-09-01,90130,SUP002,78,blocked,Harness routed for safety review.
+OR00001206,2023-09-13,90130,SUP002,78,requires_review,Harness routed for safety review.
+OR00001207,2023-09-22,90130,SUP002,78,executed,Harness approved.
+OR00001208,2023-10-01,90130,SUP002,78,executed,Harness approved.
+OR00001209,2023-10-25,90130,SUP002,78,executed,Harness approved.
+OR00001210,2023-11-14,90130,SUP002,78,blocked,Harness routed for safety review.
+OR00001211,2023-12-07,90130,SUP002,78,blocked,Harness routed for safety review.
+OR00001212,2023-12-28,90130,SUP002,78,requires_review,Harness routed for safety review.
+OR00001213,2024-01-18,90130,SUP002,78,executed,Harness approved.
+OR00001214,2024-03-09,90130,SUP002,78,executed,Harness approved.
+OR00001215,2024-04-07,90130,SUP002,78,executed,Harness approved.
+OR00001216,2024-05-03,90130,SUP002,78,executed,Harness approved.
+OR00001217,2024-06-27,90130,SUP002,78,executed,Harness approved.
+OR00001218,2024-07-19,90130,SUP002,78,executed,Harness approved.
+OR00001219,2024-08-15,90130,SUP002,78,requires_review,Harness routed for safety review.
+OR00001220,2024-09-11,90130,SUP002,78,executed,Harness approved.
+OR00001221,2024-10-04,90130,SUP002,78,executed,Harness approved.
+OR00001222,2024-10-24,90130,SUP002,78,executed,Harness approved.
+OR00001223,2024-11-16,90130,SUP002,78,blocked,Harness routed for safety review.
+OR00001224,2025-01-09,90130,SUP002,78,executed,Harness approved.
+OR00001225,2025-01-31,90130,SUP002,78,executed,Harness approved.
+OR00001226,2025-03-26,90130,SUP002,78,executed,Harness approved.
+OR00001227,2025-04-24,90130,SUP002,78,executed,Harness approved.
+OR00001228,2025-06-18,90130,SUP002,78,executed,Harness approved.
+OR00001229,2025-07-12,90130,SUP002,78,blocked,Harness routed for safety review.
+OR00001230,2025-08-08,90130,SUP002,78,executed,Harness approved.
+OR00001231,2025-09-05,90130,SUP002,78,requires_review,Harness routed for safety review.
+OR00001232,2025-10-03,90130,SUP002,78,executed,Harness approved.
+OR00001233,2025-11-07,90130,SUP002,78,blocked,Harness routed for safety review.
+OR00001234,2025-11-28,90130,SUP002,78,blocked,Harness routed for safety review.
+OR00001235,2026-01-31,90130,SUP002,78,blocked,Harness routed for safety review.
+OR00001236,2026-03-03,90130,SUP002,78,requires_review,Harness routed for safety review.
+OR00001237,2026-04-01,90130,SUP002,78,executed,Harness approved.
+OR00001238,2026-05-05,90130,SUP002,78,blocked,Harness routed for safety review.
+OR00001239,2021-02-08,90143,SUP002,96,executed,Harness approved.
+OR00001240,2021-02-22,90143,SUP002,96,executed,Harness approved.
+OR00001241,2021-03-08,90143,SUP002,96,executed,Harness approved.
+OR00001242,2021-03-20,90143,SUP002,96,executed,Harness approved.
+OR00001243,2021-04-03,90143,SUP002,96,executed,Harness approved.
+OR00001244,2021-04-15,90143,SUP002,96,executed,Harness approved.
+OR00001245,2021-04-28,90143,SUP002,96,blocked,Harness routed for safety review.
+OR00001246,2021-05-08,90143,SUP002,96,executed,Harness approved.
+OR00001247,2021-05-22,90143,SUP002,96,executed,Harness approved.
+OR00001248,2021-09-03,90143,SUP002,96,executed,Harness approved.
+OR00001249,2021-09-15,90143,SUP002,96,blocked,Harness routed for safety review.
+OR00001250,2021-09-28,90143,SUP002,96,executed,Harness approved.
+OR00001251,2021-10-09,90143,SUP002,96,executed,Harness approved.
+OR00001252,2021-10-23,90143,SUP002,96,executed,Harness approved.
+OR00001253,2021-11-07,90143,SUP002,96,executed,Harness approved.
+OR00001254,2021-11-25,90143,SUP002,96,blocked,Harness routed for safety review.
+OR00001255,2021-12-12,90143,SUP002,96,executed,Harness approved.
+OR00001256,2022-01-02,90143,SUP002,96,executed,Harness approved.
+OR00001257,2022-01-18,90143,SUP002,96,executed,Harness approved.
+OR00001258,2022-02-03,90143,SUP002,96,executed,Harness approved.
+OR00001259,2022-02-17,90143,SUP002,96,executed,Harness approved.
+OR00001260,2022-03-02,90143,SUP002,96,executed,Harness approved.
+OR00001261,2022-03-14,90143,SUP002,96,executed,Harness approved.
+OR00001262,2022-03-29,90143,SUP002,96,requires_review,Harness routed for safety review.
+OR00001263,2022-04-14,90143,SUP002,96,requires_review,Harness routed for safety review.
+OR00001264,2022-04-23,90143,SUP002,96,executed,Harness approved.
+OR00001265,2022-05-06,90143,SUP002,96,executed,Harness approved.
+OR00001266,2022-05-17,90143,SUP002,96,blocked,Harness routed for safety review.
+OR00001267,2022-06-01,90143,SUP002,96,blocked,Harness routed for safety review.
+OR00001268,2022-06-25,90143,SUP002,96,requires_review,Harness routed for safety review.
+OR00001269,2022-07-24,90143,SUP002,96,executed,Harness approved.
+OR00001270,2022-08-22,90143,SUP002,96,executed,Harness approved.
+OR00001271,2022-09-18,90143,SUP002,96,executed,Harness approved.
+OR00001272,2022-10-15,90143,SUP002,96,executed,Harness approved.
+OR00001273,2022-11-24,90143,SUP002,96,blocked,Harness routed for safety review.
+OR00001274,2022-12-24,90143,SUP002,96,blocked,Harness routed for safety review.
+OR00001275,2023-01-27,90143,SUP002,96,executed,Harness approved.
+OR00001276,2023-03-01,90143,SUP002,96,executed,Harness approved.
+OR00001277,2023-04-02,90143,SUP002,96,executed,Harness approved.
+OR00001278,2023-05-07,90143,SUP002,96,blocked,Harness routed for safety review.
+OR00001279,2023-06-09,90143,SUP002,96,blocked,Harness routed for safety review.
+OR00001280,2023-08-14,90143,SUP002,96,executed,Harness approved.
+OR00001281,2023-10-17,90143,SUP002,96,executed,Harness approved.
+OR00001282,2023-12-16,90143,SUP002,96,executed,Harness approved.
+OR00001283,2024-02-08,90143,SUP002,96,executed,Harness approved.
+OR00001284,2024-03-19,90143,SUP002,96,executed,Harness approved.
+OR00001285,2024-04-21,90143,SUP002,96,requires_review,Harness routed for safety review.
+OR00001286,2024-05-13,90143,SUP002,96,requires_review,Harness routed for safety review.
+OR00001287,2024-06-07,90143,SUP002,96,executed,Harness approved.
+OR00001288,2024-06-28,90143,SUP002,96,executed,Harness approved.
+OR00001289,2024-07-20,90143,SUP002,96,executed,Harness approved.
+OR00001290,2024-08-12,90143,SUP002,96,executed,Harness approved.
+OR00001291,2024-09-14,90143,SUP002,96,executed,Harness approved.
+OR00001292,2024-10-12,90143,SUP002,96,blocked,Harness routed for safety review.
+OR00001293,2024-11-18,90143,SUP002,96,requires_review,Harness routed for safety review.
+OR00001294,2024-12-17,90143,SUP002,96,executed,Harness approved.
+OR00001295,2025-01-21,90143,SUP002,96,requires_review,Harness routed for safety review.
+OR00001296,2025-02-22,90143,SUP002,96,blocked,Harness routed for safety review.
+OR00001297,2025-03-08,90143,SUP002,96,executed,Harness approved.
+OR00001298,2025-03-22,90143,SUP002,96,blocked,Harness routed for safety review.
+OR00001299,2025-04-11,90143,SUP002,96,requires_review,Harness routed for safety review.
+OR00001300,2025-05-04,90143,SUP002,96,executed,Harness approved.
+OR00001301,2025-05-30,90143,SUP002,96,executed,Harness approved.
+OR00001302,2025-06-20,90143,SUP002,96,executed,Harness approved.
+OR00001303,2025-07-11,90143,SUP002,96,requires_review,Harness routed for safety review.
+OR00001304,2025-08-02,90143,SUP002,96,blocked,Harness routed for safety review.
+OR00001305,2025-08-29,90143,SUP002,96,requires_review,Harness routed for safety review.
+OR00001306,2025-09-22,90143,SUP002,96,blocked,Harness routed for safety review.
+OR00001307,2025-10-24,90143,SUP002,96,executed,Harness approved.
+OR00001308,2025-11-25,90143,SUP002,96,executed,Harness approved.
+OR00001309,2026-01-01,90143,SUP002,96,executed,Harness approved.
+OR00001310,2026-02-20,90143,SUP002,96,requires_review,Harness routed for safety review.
+OR00001311,2026-03-26,90143,SUP002,96,executed,Harness approved.
+OR00001312,2026-04-23,90143,SUP002,96,requires_review,Harness routed for safety review.
+OR00001313,2026-05-22,90143,SUP002,96,blocked,Harness routed for safety review.
+OR00001314,2021-03-16,A10026,SUP003,80,executed,Harness approved.
+OR00001315,2021-04-15,A10026,SUP003,80,requires_review,Harness routed for safety review.
+OR00001316,2021-05-11,A10026,SUP003,80,blocked,Harness routed for safety review.
+OR00001317,2021-06-15,A10026,SUP003,80,executed,Harness approved.
+OR00001318,2021-07-19,A10026,SUP003,80,executed,Harness approved.
+OR00001319,2021-08-22,A10026,SUP003,80,requires_review,Harness routed for safety review.
+OR00001320,2021-09-21,A10026,SUP003,80,requires_review,Harness routed for safety review.
+OR00001321,2021-10-29,A10026,SUP003,80,blocked,Harness routed for safety review.
+OR00001322,2021-12-17,A10026,SUP003,80,blocked,Harness routed for safety review.
+OR00001323,2022-02-23,A10026,SUP003,80,requires_review,Harness routed for safety review.
+OR00001324,2022-04-05,A10026,SUP003,80,requires_review,Harness routed for safety review.
+OR00001325,2022-05-07,A10026,SUP003,80,executed,Harness approved.
+OR00001326,2022-05-29,A10026,SUP003,80,blocked,Harness routed for safety review.
+OR00001327,2022-06-26,A10026,SUP003,80,requires_review,Harness routed for safety review.
+OR00001328,2022-07-30,A10026,SUP003,80,blocked,Harness routed for safety review.
+OR00001329,2022-08-21,A10026,SUP003,80,executed,Harness approved.
+OR00001330,2022-09-20,A10026,SUP003,80,blocked,Harness routed for safety review.
+OR00001331,2022-11-11,A10026,SUP003,80,requires_review,Harness routed for safety review.
+OR00001332,2023-01-10,A10026,SUP003,80,executed,Harness approved.
+OR00001333,2023-03-13,A10026,SUP003,80,executed,Harness approved.
+OR00001334,2023-04-18,A10026,SUP003,80,requires_review,Harness routed for safety review.
+OR00001335,2023-06-01,A10026,SUP003,80,executed,Harness approved.
+OR00001336,2023-07-05,A10026,SUP003,80,requires_review,Harness routed for safety review.
+OR00001337,2023-07-30,A10026,SUP003,80,requires_review,Harness routed for safety review.
+OR00001338,2023-08-22,A10026,SUP003,80,executed,Harness approved.
+OR00001339,2023-09-14,A10026,SUP003,80,blocked,Harness routed for safety review.
+OR00001340,2023-10-01,A10026,SUP003,80,executed,Harness approved.
+OR00001341,2023-10-20,A10026,SUP003,80,requires_review,Harness routed for safety review.
+OR00001342,2023-11-13,A10026,SUP003,80,blocked,Harness routed for safety review.
+OR00001343,2023-12-17,A10026,SUP003,80,executed,Harness approved.
+OR00001344,2024-01-22,A10026,SUP003,80,requires_review,Harness routed for safety review.
+OR00001345,2024-02-28,A10026,SUP003,80,executed,Harness approved.
+OR00001346,2024-04-06,A10026,SUP003,80,executed,Harness approved.
+OR00001347,2024-04-28,A10026,SUP003,80,blocked,Harness routed for safety review.
+OR00001348,2024-05-26,A10026,SUP003,80,executed,Harness approved.
+OR00001349,2024-06-20,A10026,SUP003,80,blocked,Harness routed for safety review.
+OR00001350,2024-07-18,A10026,SUP003,80,executed,Harness approved.
+OR00001351,2024-08-10,A10026,SUP003,80,executed,Harness approved.
+OR00001352,2024-09-06,A10026,SUP003,80,executed,Harness approved.
+OR00001353,2024-10-17,A10026,SUP003,80,executed,Harness approved.
+OR00001354,2024-10-31,A10026,SUP003,80,executed,Harness approved.
+OR00001355,2024-11-16,A10026,SUP003,80,blocked,Harness routed for safety review.
+OR00001356,2024-12-07,A10026,SUP003,80,executed,Harness approved.
+OR00001357,2024-12-28,A10026,SUP003,80,requires_review,Harness routed for safety review.
+OR00001358,2025-01-22,A10026,SUP003,80,requires_review,Harness routed for safety review.
+OR00001359,2025-02-15,A10026,SUP003,80,executed,Harness approved.
+OR00001360,2025-03-10,A10026,SUP003,80,blocked,Harness routed for safety review.
+OR00001361,2025-04-03,A10026,SUP003,80,executed,Harness approved.
+OR00001362,2025-05-21,A10026,SUP003,80,executed,Harness approved.
+OR00001363,2025-06-02,A10026,SUP003,80,executed,Harness approved.
+OR00001364,2025-06-17,A10026,SUP003,80,blocked,Harness routed for safety review.
+OR00001365,2025-07-04,A10026,SUP003,80,executed,Harness approved.
+OR00001366,2025-08-15,A10026,SUP003,80,executed,Harness approved.
+OR00001367,2025-09-06,A10026,SUP003,80,executed,Harness approved.
+OR00001368,2025-10-17,A10026,SUP003,80,blocked,Harness routed for safety review.
+OR00001369,2025-11-01,A10026,SUP003,80,executed,Harness approved.
+OR00001370,2025-11-20,A10026,SUP003,80,requires_review,Harness routed for safety review.
+OR00001371,2025-12-18,A10026,SUP003,80,executed,Harness approved.
+OR00001372,2026-01-13,A10026,SUP003,80,executed,Harness approved.
+OR00001373,2026-05-03,A10026,SUP003,80,requires_review,Harness routed for safety review.
+OR00001374,2026-05-21,A10026,SUP003,80,executed,Harness approved.
+OR00001375,2021-03-20,A30035,SUP002,120,blocked,Harness routed for safety review.
+OR00001376,2021-04-12,A30035,SUP002,120,blocked,Harness routed for safety review.
+OR00001377,2021-05-11,A30035,SUP002,120,requires_review,Harness routed for safety review.
+OR00001378,2021-05-31,A30035,SUP002,120,executed,Harness approved.
+OR00001379,2021-06-21,A30035,SUP002,120,executed,Harness approved.
+OR00001380,2021-07-04,A30035,SUP002,120,requires_review,Harness routed for safety review.
+OR00001381,2021-07-28,A30035,SUP002,120,executed,Harness approved.
+OR00001382,2021-08-12,A30035,SUP002,120,executed,Harness approved.
+OR00001383,2021-11-14,A30035,SUP002,120,executed,Harness approved.
+OR00001384,2022-01-09,A30035,SUP002,120,executed,Harness approved.
+OR00001385,2022-02-05,A30035,SUP002,120,executed,Harness approved.
+OR00001386,2022-03-03,A30035,SUP002,120,requires_review,Harness routed for safety review.
+OR00001387,2022-03-20,A30035,SUP002,120,blocked,Harness routed for safety review.
+OR00001388,2022-04-11,A30035,SUP002,120,executed,Harness approved.
+OR00001389,2022-05-04,A30035,SUP002,120,blocked,Harness routed for safety review.
+OR00001390,2022-05-25,A30035,SUP002,120,executed,Harness approved.
+OR00001391,2022-06-12,A30035,SUP002,120,executed,Harness approved.
+OR00001392,2022-06-22,A30035,SUP002,120,executed,Harness approved.
+OR00001393,2022-07-04,A30035,SUP002,120,executed,Harness approved.
+OR00001394,2022-07-13,A30035,SUP002,120,executed,Harness approved.
+OR00001395,2022-07-21,A30035,SUP002,120,executed,Harness approved.
+OR00001396,2022-07-29,A30035,SUP002,120,requires_review,Harness routed for safety review.
+OR00001397,2022-08-05,A30035,SUP002,120,executed,Harness approved.
+OR00001398,2022-08-12,A30035,SUP002,120,executed,Harness approved.
+OR00001399,2022-08-18,A30035,SUP002,120,executed,Harness approved.
+OR00001400,2022-08-25,A30035,SUP002,120,requires_review,Harness routed for safety review.
+OR00001401,2022-09-03,A30035,SUP002,120,executed,Harness approved.
+OR00001402,2022-09-17,A30035,SUP002,120,executed,Harness approved.
+OR00001403,2022-09-30,A30035,SUP002,120,executed,Harness approved.
+OR00001404,2022-10-10,A30035,SUP002,120,blocked,Harness routed for safety review.
+OR00001405,2022-11-15,A30035,SUP002,120,executed,Harness approved.
+OR00001406,2023-01-07,A30035,SUP002,120,executed,Harness approved.
+OR00001407,2023-02-06,A30035,SUP002,120,executed,Harness approved.
+OR00001408,2023-02-25,A30035,SUP002,120,executed,Harness approved.
+OR00001409,2023-03-10,A30035,SUP002,120,executed,Harness approved.
+OR00001410,2023-03-26,A30035,SUP002,120,executed,Harness approved.
+OR00001411,2023-04-07,A30035,SUP002,120,executed,Harness approved.
+OR00001412,2023-04-20,A30035,SUP002,120,executed,Harness approved.
+OR00001413,2023-04-30,A30035,SUP002,120,executed,Harness approved.
+OR00001414,2023-05-12,A30035,SUP002,120,executed,Harness approved.
+OR00001415,2023-05-26,A30035,SUP002,120,requires_review,Harness routed for safety review.
+OR00001416,2023-06-09,A30035,SUP002,120,executed,Harness approved.
+OR00001417,2023-06-23,A30035,SUP002,120,executed,Harness approved.
+OR00001418,2023-07-03,A30035,SUP002,120,blocked,Harness routed for safety review.
+OR00001419,2023-07-14,A30035,SUP002,120,blocked,Harness routed for safety review.
+OR00001420,2023-07-25,A30035,SUP002,120,blocked,Harness routed for safety review.
+OR00001421,2023-08-05,A30035,SUP002,120,executed,Harness approved.
+OR00001422,2023-08-16,A30035,SUP002,120,executed,Harness approved.
+OR00001423,2023-08-25,A30035,SUP002,120,executed,Harness approved.
+OR00001424,2023-09-05,A30035,SUP002,120,requires_review,Harness routed for safety review.
+OR00001425,2023-09-19,A30035,SUP002,120,blocked,Harness routed for safety review.
+OR00001426,2023-10-04,A30035,SUP002,120,executed,Harness approved.
+OR00001427,2023-11-06,A30035,SUP002,120,blocked,Harness routed for safety review.
+OR00001428,2023-11-23,A30035,SUP002,120,blocked,Harness routed for safety review.
+OR00001429,2023-12-23,A30035,SUP002,120,requires_review,Harness routed for safety review.
+OR00001430,2024-01-10,A30035,SUP002,120,requires_review,Harness routed for safety review.
+OR00001431,2024-01-26,A30035,SUP002,120,executed,Harness approved.
+OR00001432,2024-02-12,A30035,SUP002,120,executed,Harness approved.
+OR00001433,2024-03-02,A30035,SUP002,120,requires_review,Harness routed for safety review.
+OR00001434,2024-03-25,A30035,SUP002,120,executed,Harness approved.
+OR00001435,2024-04-13,A30035,SUP002,120,executed,Harness approved.
+OR00001436,2024-04-27,A30035,SUP002,120,executed,Harness approved.
+OR00001437,2024-05-13,A30035,SUP002,120,blocked,Harness routed for safety review.
+OR00001438,2024-06-02,A30035,SUP002,120,executed,Harness approved.
+OR00001439,2024-07-02,A30035,SUP002,120,blocked,Harness routed for safety review.
+OR00001440,2024-07-19,A30035,SUP002,120,blocked,Harness routed for safety review.
+OR00001441,2024-08-02,A30035,SUP002,120,executed,Harness approved.
+OR00001442,2024-08-22,A30035,SUP002,120,blocked,Harness routed for safety review.
+OR00001443,2024-09-07,A30035,SUP002,120,executed,Harness approved.
+OR00001444,2024-12-12,A30035,SUP002,120,blocked,Harness routed for safety review.
+OR00001445,2025-02-19,A30035,SUP002,120,executed,Harness approved.
+OR00001446,2025-04-02,A30035,SUP002,120,executed,Harness approved.
+OR00001447,2025-07-21,A30035,SUP002,120,executed,Harness approved.
+OR00001448,2025-08-30,A30035,SUP002,120,executed,Harness approved.
+OR00001449,2025-09-28,A30035,SUP002,120,blocked,Harness routed for safety review.
+OR00001450,2026-04-01,A30035,SUP002,120,executed,Harness approved.
